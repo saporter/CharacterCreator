@@ -1,0 +1,4130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -501458331, guid: 56a85167256b1274eb498375253efd9c, type: 3}
+  m_Name: SpriteCollection [Goblins]
+  m_EditorClassIdentifier: 
+  Id: Goblins
+  ScanFolderTags:
+  - FantasyHeroes
+  CollectionFilter:
+  - Goblin
+  CollectionFilterIgnore:
+  - /MeleeWeapon1H
+  - /MeleeWeapon2H
+  - /Bow/
+  - /Shield
+  Body:
+  - Name: GoblinType1
+    Collection: Goblin
+    Id: 183881068
+    Path: BodyParts/Body/Goblin/GoblinType1
+    Sprite: {fileID: 21300016, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300016, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300020, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300018, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300086, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300084, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300066, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300056, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300012, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300022, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300024, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300006, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300002, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300004, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300054, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300062, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300000, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300010, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300008, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300070, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300076, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300100, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300092, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300094, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300108, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300102, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300104, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300090, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300098, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300096, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    - {fileID: 21300106, guid: 56dda7bda3453b54b9a196e0eb8446c3, type: 3}
+    Multiple: 1
+    Hash: dcea41372332bbe36b1114552dcc783e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoblinType2
+    Collection: Goblin
+    Id: 1749965009
+    Path: BodyParts/Body/Goblin/GoblinType2
+    Sprite: {fileID: 21300016, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300016, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300020, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300018, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300086, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300084, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300066, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300056, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300012, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300022, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300024, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300006, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300002, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300004, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300054, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300062, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300000, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300010, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300008, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300070, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300076, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300100, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300092, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300094, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300108, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300102, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300104, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300090, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300098, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300096, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    - {fileID: 21300106, guid: a0c4f99f6e2d8ea469df92eebf351d9e, type: 3}
+    Multiple: 1
+    Hash: 958c77576d36087435fe793ab9e600ea
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoblinType3
+    Collection: Goblin
+    Id: -978918346
+    Path: BodyParts/Body/Goblin/GoblinType3
+    Sprite: {fileID: 21300016, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300016, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300020, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300018, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300086, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300084, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300066, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300056, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300012, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300022, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300024, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300006, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300002, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300004, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300054, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300062, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300000, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300010, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300008, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300070, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300076, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300100, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300092, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300094, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300108, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300102, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300104, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300090, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300098, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300096, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    - {fileID: 21300106, guid: 18feb401fe3ce3d40839ce0c31b56633, type: 3}
+    Multiple: 1
+    Hash: 39e399833c6d00b083f781e94f19858e
+    Meta: 
+    Tags: []
+    Config: 
+  Ears:
+  - Name: Goblin
+    Collection: Goblin
+    Id: -621095777
+    Path: BodyParts/Ears/Goblin/Goblin
+    Sprite: {fileID: 21300002, guid: 09a3c2b122a732f4282bc82dca14f960, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300002, guid: 09a3c2b122a732f4282bc82dca14f960, type: 3}
+    - {fileID: 21300000, guid: 09a3c2b122a732f4282bc82dca14f960, type: 3}
+    - {fileID: 21300004, guid: 09a3c2b122a732f4282bc82dca14f960, type: 3}
+    Multiple: 1
+    Hash: 1f15bce1fbebb023220a46f29970f523
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoblinType1
+    Collection: Goblin
+    Id: 183881068
+    Path: BodyParts/Ears/Goblin/GoblinType1
+    Sprite: {fileID: 21300002, guid: 7e2863473d06a4b479c0cb18342b217e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300002, guid: 7e2863473d06a4b479c0cb18342b217e, type: 3}
+    - {fileID: 21300000, guid: 7e2863473d06a4b479c0cb18342b217e, type: 3}
+    - {fileID: 21300004, guid: 7e2863473d06a4b479c0cb18342b217e, type: 3}
+    Multiple: 1
+    Hash: f22fd477105b6b6fac48bf5649a07472
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoblinType2
+    Collection: Goblin
+    Id: 1749965009
+    Path: BodyParts/Ears/Goblin/GoblinType2
+    Sprite: {fileID: 21300002, guid: 0e34fcc3248b0894181f6bcfed81edd3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300002, guid: 0e34fcc3248b0894181f6bcfed81edd3, type: 3}
+    - {fileID: 21300000, guid: 0e34fcc3248b0894181f6bcfed81edd3, type: 3}
+    - {fileID: 21300004, guid: 0e34fcc3248b0894181f6bcfed81edd3, type: 3}
+    Multiple: 1
+    Hash: 78fb19cbd265aaee056f3ff602bee545
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoblinType3
+    Collection: Goblin
+    Id: -978918346
+    Path: BodyParts/Ears/Goblin/GoblinType3
+    Sprite: {fileID: 21300002, guid: 7ff546359ec20f443bd7ececa5ae0b86, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300002, guid: 7ff546359ec20f443bd7ececa5ae0b86, type: 3}
+    - {fileID: 21300000, guid: 7ff546359ec20f443bd7ececa5ae0b86, type: 3}
+    - {fileID: 21300004, guid: 7ff546359ec20f443bd7ececa5ae0b86, type: 3}
+    Multiple: 1
+    Hash: 772e564c11d6502e17b0ac8abbddb5cb
+    Meta: 
+    Tags: []
+    Config: 
+  Hair: []
+  Eyebrows: []
+  Eyes:
+  - Name: Type1Angry
+    Collection: Goblin
+    Id: 315258762
+    Path: BodyParts/Eyes/Goblin/Type1Angry
+    Sprite: {fileID: 21300000, guid: cf67503a21a902341b02c0c6fcfe8e86, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: cf67503a21a902341b02c0c6fcfe8e86, type: 3}
+    - {fileID: 21300004, guid: cf67503a21a902341b02c0c6fcfe8e86, type: 3}
+    Multiple: 1
+    Hash: 3d16ffabe983410212c10cc120a59cc2
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type1Dead
+    Collection: Goblin
+    Id: 492890987
+    Path: BodyParts/Eyes/Goblin/Type1Dead
+    Sprite: {fileID: 21300000, guid: 18ed6b9824d3be34badce9fb8c278f56, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 18ed6b9824d3be34badce9fb8c278f56, type: 3}
+    - {fileID: 21300004, guid: 18ed6b9824d3be34badce9fb8c278f56, type: 3}
+    Multiple: 1
+    Hash: 8ef69abf2b53c66d730d60bd69f8eb27
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type2Angry
+    Collection: Goblin
+    Id: -878198417
+    Path: BodyParts/Eyes/Goblin/Type2Angry
+    Sprite: {fileID: 21300000, guid: 6cba9f90a2e573346912da99d5625d59, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6cba9f90a2e573346912da99d5625d59, type: 3}
+    - {fileID: 21300004, guid: 6cba9f90a2e573346912da99d5625d59, type: 3}
+    Multiple: 1
+    Hash: f551f773588c247c95c3e55c7f1c87b3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type3Angry
+    Collection: Goblin
+    Id: -959268652
+    Path: BodyParts/Eyes/Goblin/Type3Angry
+    Sprite: {fileID: 21300000, guid: 0ad2125d276975a4e9ad1d3af7cbc72c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0ad2125d276975a4e9ad1d3af7cbc72c, type: 3}
+    - {fileID: 21300004, guid: 0ad2125d276975a4e9ad1d3af7cbc72c, type: 3}
+    Multiple: 1
+    Hash: 20ef25507b6e5bf8c0091cbd31a7ffc3
+    Meta: 
+    Tags: []
+    Config: 
+  Mouth:
+  - Name: Type1Dead
+    Collection: Goblin
+    Id: 492890987
+    Path: BodyParts/Mouth/Goblin/Type1Dead
+    Sprite: {fileID: 21300000, guid: 40762ef09994ffa49a843e2a81634f34, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 40762ef09994ffa49a843e2a81634f34, type: 3}
+    - {fileID: 21300004, guid: 40762ef09994ffa49a843e2a81634f34, type: 3}
+    Multiple: 1
+    Hash: 752d023e756bbbb757cbd6aee1cfe9fd
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type1Normal
+    Collection: Goblin
+    Id: -11290010
+    Path: BodyParts/Mouth/Goblin/Type1Normal
+    Sprite: {fileID: 21300000, guid: 36c5d8a12ddc7594ca00b3ace5ca544c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 36c5d8a12ddc7594ca00b3ace5ca544c, type: 3}
+    - {fileID: 21300004, guid: 36c5d8a12ddc7594ca00b3ace5ca544c, type: 3}
+    Multiple: 1
+    Hash: 77a9ea5c74e5c5662d1c1ebeddd68710
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type2Normal
+    Collection: Goblin
+    Id: -12330793
+    Path: BodyParts/Mouth/Goblin/Type2Normal
+    Sprite: {fileID: 21300000, guid: 3822cb262a1c48546b3f55e83c8d5d8d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3822cb262a1c48546b3f55e83c8d5d8d, type: 3}
+    - {fileID: 21300004, guid: 3822cb262a1c48546b3f55e83c8d5d8d, type: 3}
+    Multiple: 1
+    Hash: 26b5eaebf91e1230f120d512c4ad756c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type3Normal
+    Collection: Goblin
+    Id: 1719046748
+    Path: BodyParts/Mouth/Goblin/Type3Normal
+    Sprite: {fileID: 21300000, guid: 93c2f6879b6c86041b053c2c3a477411, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 93c2f6879b6c86041b053c2c3a477411, type: 3}
+    - {fileID: 21300004, guid: 93c2f6879b6c86041b053c2c3a477411, type: 3}
+    Multiple: 1
+    Hash: ea80355897bf80e820147c10835ba0e9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type4Normal
+    Collection: Goblin
+    Id: -1044567051
+    Path: BodyParts/Mouth/Goblin/Type4Normal
+    Sprite: {fileID: 21300000, guid: c896617d796d180458590e24508435a2, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c896617d796d180458590e24508435a2, type: 3}
+    - {fileID: 21300004, guid: c896617d796d180458590e24508435a2, type: 3}
+    Multiple: 1
+    Hash: 9e4a877a1c9283fc790e1d561c119707
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Type5Normal
+    Collection: Goblin
+    Id: 686810490
+    Path: BodyParts/Mouth/Goblin/Type5Normal
+    Sprite: {fileID: 21300000, guid: aabd0245a5543114fb3df99d7bd7f962, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: aabd0245a5543114fb3df99d7bd7f962, type: 3}
+    - {fileID: 21300004, guid: aabd0245a5543114fb3df99d7bd7f962, type: 3}
+    Multiple: 1
+    Hash: d8e42e6a9f9695c74a3b2d0934396db4
+    Meta: 
+    Tags: []
+    Config: 
+  Beard: []
+  Glasses: []
+  Mask: []
+  Earrings: []
+  Armor:
+  - Name: BodyType1Armor1
+    Collection: Goblin
+    Id: -1893901915
+    Path: Equipment/Armor/Goblin/BodyType1Armor1
+    Sprite: {fileID: 21300040, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300044, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300042, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300074, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300020, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300072, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300008, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300036, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300046, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300048, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300030, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300026, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300028, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300006, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300068, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300024, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300060, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300032, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300018, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300070, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300092, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300084, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300086, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300100, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300094, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300096, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300082, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300090, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300088, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    - {fileID: 21300098, guid: 00c8eb8b80710a240852920cd5fbc725, type: 3}
+    Multiple: 1
+    Hash: 8871470282d1ba0d51ad5e32d6e787e4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BodyType1Armor2
+    Collection: Goblin
+    Id: 1997780854
+    Path: Equipment/Armor/Goblin/BodyType1Armor2
+    Sprite: {fileID: 21300040, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300044, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300042, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300074, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300020, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300072, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300008, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300036, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300046, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300048, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300030, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300026, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300028, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300006, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300068, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300024, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300060, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300032, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300018, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300070, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300092, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300084, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300086, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300100, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300094, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300096, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300082, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300090, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300088, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    - {fileID: 21300098, guid: bfc16e1c9c4cd90439e75243ff14d57f, type: 3}
+    Multiple: 1
+    Hash: 0bfdf1a22f627acfd739226000cc18b9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BodyType1Armor3
+    Collection: Goblin
+    Id: -731102501
+    Path: Equipment/Armor/Goblin/BodyType1Armor3
+    Sprite: {fileID: 21300040, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300044, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300042, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300074, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300020, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300072, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300008, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300036, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300046, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300048, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300030, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300026, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300028, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300006, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300068, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300024, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300060, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300032, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300018, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300070, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300058, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300050, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300052, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300084, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300010, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300016, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300038, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300056, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300054, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    - {fileID: 21300082, guid: f741ea43f2236df4aaf7d6799e452981, type: 3}
+    Multiple: 1
+    Hash: 3ce5198cf083a0a57569463f0bd99951
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BodyType1Armor4
+    Collection: Goblin
+    Id: -1134387028
+    Path: Equipment/Armor/Goblin/BodyType1Armor4
+    Sprite: {fileID: 21300040, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300044, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300042, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300074, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300020, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300072, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300008, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300036, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300046, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300048, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300030, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300026, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300028, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300006, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300068, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300024, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300060, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300032, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300018, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300070, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300092, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300084, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300086, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300100, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300094, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300096, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300082, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300090, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300088, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    - {fileID: 21300098, guid: d9fcef39283520349990749d8861e2ba, type: 3}
+    Multiple: 1
+    Hash: b72e7c6a90f796ec50d51621b97b31bd
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BodyType1Armor5
+    Collection: Goblin
+    Id: 431696913
+    Path: Equipment/Armor/Goblin/BodyType1Armor5
+    Sprite: {fileID: 21300040, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300044, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300042, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300074, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300020, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300072, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300008, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300036, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300046, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300048, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300030, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300026, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300028, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300006, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300068, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300024, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300060, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300032, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300018, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300070, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300092, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300084, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300086, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300100, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300094, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300096, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300082, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300090, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300088, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    - {fileID: 21300098, guid: 398333f0371f66148acd497cedae115b, type: 3}
+    Multiple: 1
+    Hash: e3f3fe921f112dd9d3d69d141bab2633
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HeavyArmor
+    Collection: Goblin
+    Id: -427856476
+    Path: Equipment/Armor/Goblin/HeavyArmor
+    Sprite: {fileID: 21300040, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300044, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300042, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300074, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300020, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300072, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300008, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300036, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300046, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300048, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300030, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300026, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300028, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300006, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300068, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300024, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300060, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300032, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300018, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300070, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300092, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300084, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300086, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300100, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300094, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300096, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300082, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300090, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300088, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    - {fileID: 21300098, guid: 3c2ca41460d8b344db6d375e70fd8b47, type: 3}
+    Multiple: 1
+    Hash: 64e37c899d9f531c1f8a6c77796bf782
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ScoutOutfit
+    Collection: Goblin
+    Id: -613407035
+    Path: Equipment/Armor/Goblin/ScoutOutfit
+    Sprite: {fileID: 21300040, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300044, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300042, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300074, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300020, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300072, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300008, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300036, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300046, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300048, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300030, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300026, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300028, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300006, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300068, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300024, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300060, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300032, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300018, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300070, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300092, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300084, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300086, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300100, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300094, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300096, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300082, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300090, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300088, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    - {fileID: 21300098, guid: 0ad55accc31d1184c9ce16fc90066118, type: 3}
+    Multiple: 1
+    Hash: 0bc48d7e30c0df46ecabbd21f3d46d23
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShamanClothes [ShowEars]
+    Collection: Goblin
+    Id: 45241832
+    Path: Equipment/Armor/Goblin/ShamanClothes [ShowEars]
+    Sprite: {fileID: 21300040, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300040, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300044, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300042, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300074, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300020, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300072, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300008, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300036, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300046, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300048, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300030, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300026, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300028, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300006, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300068, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300024, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300060, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300032, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300018, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300070, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300092, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300084, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300086, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300100, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300094, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300096, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300082, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300090, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300088, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    - {fileID: 21300098, guid: ac4969e7596dbf54096f36bab058a323, type: 3}
+    Multiple: 1
+    Hash: 3d6ba81a9426f6427b831ebc534bd19a
+    Meta: 
+    Tags:
+    - ShowEars
+    Config: 
+  Cape: []
+  Back: []
+  MeleeWeapon1H:
+  - Name: AdvancedShortDagger
+    Collection: Basic
+    Id: -99405981
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/AdvancedShortDagger
+    Sprite: {fileID: 21300000, guid: 057e91f9379997d40b259470f8d9d8a8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 057e91f9379997d40b259470f8d9d8a8, type: 3}
+    Multiple: 1
+    Hash: 018692a9a2ced8f21f098a95823fe28b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: AdvancedShortSword
+    Collection: Basic
+    Id: -1199007600
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/AdvancedShortSword
+    Sprite: {fileID: 21300000, guid: 62ea53872a31d5a4693da469e613b675, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 62ea53872a31d5a4693da469e613b675, type: 3}
+    Multiple: 1
+    Hash: 5482932952a9589aacf461de90d5d5f4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: AspenStake
+    Collection: Basic
+    Id: -157680250
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/AspenStake
+    Sprite: {fileID: 21300000, guid: 7272e96b3caf3494a981dcc37fe3c573, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 7272e96b3caf3494a981dcc37fe3c573, type: 3}
+    Multiple: 1
+    Hash: 9669a6475b9b25ac6deb88136483f57c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BalancedAxe
+    Collection: Basic
+    Id: -1684626617
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/BalancedAxe
+    Sprite: {fileID: 21300000, guid: 52e613d4c10d065468dde80a6f0205ee, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 52e613d4c10d065468dde80a6f0205ee, type: 3}
+    Multiple: 1
+    Hash: 64868d1562baf1a629c3ead9676ec004
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BattleAxe
+    Collection: Basic
+    Id: 303506683
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/BattleAxe
+    Sprite: {fileID: 21300000, guid: 5753802d09465c74bbe688b4aa89f459, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5753802d09465c74bbe688b4aa89f459, type: 3}
+    Multiple: 1
+    Hash: d65a50db8790f8f7a5d0c284540c88ba
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Bilbo
+    Collection: Basic
+    Id: -392142269
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Bilbo
+    Sprite: {fileID: 21300000, guid: 4a90b26ee4e63ff4bad7e4106774a2f9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 4a90b26ee4e63ff4bad7e4106774a2f9, type: 3}
+    Multiple: 1
+    Hash: bdc6002244c9e44d9c72ec09f4880474
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlacksmithHammer
+    Collection: Basic
+    Id: 1810356363
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/BlacksmithHammer
+    Sprite: {fileID: 21300000, guid: 632f0b49419c9b347bc1bb1ce01cc29e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 632f0b49419c9b347bc1bb1ce01cc29e, type: 3}
+    Multiple: 1
+    Hash: 706f0851c131a1e68e067d1b68f10cae
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlackSteelHammer
+    Collection: Basic
+    Id: 1173530299
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/BlackSteelHammer
+    Sprite: {fileID: 21300000, guid: 6f8a7caf69d81ec448b288f2681d7c67, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6f8a7caf69d81ec448b288f2681d7c67, type: 3}
+    Multiple: 1
+    Hash: 735ba80e5d6756d7459a195a5718ccbe
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlackStick
+    Collection: Basic
+    Id: 646627508
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/BlackStick
+    Sprite: {fileID: 21300000, guid: e9c5041936f951645a5cb0cdde6c46a5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e9c5041936f951645a5cb0cdde6c46a5, type: 3}
+    Multiple: 1
+    Hash: bafe13d6b40c07c7dbe08e8348287327
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BloodyKatana
+    Collection: Basic
+    Id: 1839768652
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/BloodyKatana
+    Sprite: {fileID: 21300000, guid: cd97c0808db976e4cb6cb91ccdf73991, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: cd97c0808db976e4cb6cb91ccdf73991, type: 3}
+    Multiple: 1
+    Hash: 2d3bf083d96d4681dd940e6c755c5535
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlueWolfAxe
+    Collection: Basic
+    Id: -1673753247
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/BlueWolfAxe
+    Sprite: {fileID: 21300000, guid: ed4be2d658454c44aa3691fd36448661, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ed4be2d658454c44aa3691fd36448661, type: 3}
+    Multiple: 1
+    Hash: 38bd07a0a652d0a2cac155852a1a72f3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BoneClub
+    Collection: Basic
+    Id: -2145219253
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/BoneClub
+    Sprite: {fileID: 21300000, guid: 48f3796518a316249a4f70dd33fffbf9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 48f3796518a316249a4f70dd33fffbf9, type: 3}
+    Multiple: 1
+    Hash: c2446812dacfa5fe75214d52a918b95b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BoneDagger
+    Collection: Basic
+    Id: 526520265
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/BoneDagger
+    Sprite: {fileID: 21300000, guid: c8339e24014a0c240b625bb425f73c11, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c8339e24014a0c240b625bb425f73c11, type: 3}
+    Multiple: 1
+    Hash: 3583fd2e582f9acc9e1aa722a96730cd
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BrokenRustySword
+    Collection: Basic
+    Id: 1975704062
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/BrokenRustySword
+    Sprite: {fileID: 21300000, guid: c67073121f5798241a8c87b9c8806675, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c67073121f5798241a8c87b9c8806675, type: 3}
+    Multiple: 1
+    Hash: 4290f5f6f6d384f845b4e5d5347da660
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BronzeDagger
+    Collection: Basic
+    Id: 1045363249
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/BronzeDagger
+    Sprite: {fileID: 21300000, guid: 18c975c5cf65f5e41a765331153bc2f0, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 18c975c5cf65f5e41a765331153bc2f0, type: 3}
+    Multiple: 1
+    Hash: 0dc729bd0d5bf8d944a4e1007ecefb3a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BronzeHammer
+    Collection: Basic
+    Id: 1119273017
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/BronzeHammer
+    Sprite: {fileID: 21300000, guid: c861d488f8960dd4cadddbe946f026a8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c861d488f8960dd4cadddbe946f026a8, type: 3}
+    Multiple: 1
+    Hash: d5cdca64f57dae7a54e1589d735273d2
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BronzeShortSword
+    Collection: Basic
+    Id: 1908199402
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/BronzeShortSword
+    Sprite: {fileID: 21300000, guid: 01ba0ec98647c7b4bad8ca1552511cba, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 01ba0ec98647c7b4bad8ca1552511cba, type: 3}
+    Multiple: 1
+    Hash: 23bb62742c996c3e24e6b311460a3059
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Cleaver
+    Collection: Basic
+    Id: -208440217
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Cleaver
+    Sprite: {fileID: 21300000, guid: 1ab094a511fde9843a08251835e32ea1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1ab094a511fde9843a08251835e32ea1, type: 3}
+    Multiple: 1
+    Hash: a69641eaf95ef08d0ba3f53646edf091
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ClericWand
+    Collection: Basic
+    Id: -371914653
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/ClericWand
+    Sprite: {fileID: 21300000, guid: 051203a2b4b3f89418cd8282a450b1a2, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 051203a2b4b3f89418cd8282a450b1a2, type: 3}
+    Multiple: 1
+    Hash: 30ad517a1afe74f148bb4c88b195dcb3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: CurvedDagger
+    Collection: Basic
+    Id: -2108685638
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/CurvedDagger
+    Sprite: {fileID: 21300000, guid: 008a5645313d7ed48b323e44fdc42009, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 008a5645313d7ed48b323e44fdc42009, type: 3}
+    Multiple: 1
+    Hash: a5d2a84584287a19f14d1d295c15b87d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Cutlus
+    Collection: Basic
+    Id: -560678947
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Cutlus
+    Sprite: {fileID: 21300000, guid: 297f3db3367712d49bad421099aae690, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 297f3db3367712d49bad421099aae690, type: 3}
+    Multiple: 1
+    Hash: de3f6fd9d2e55fe06c097e8637b9384b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: DreadCleaver
+    Collection: Basic
+    Id: -1991495687
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/DreadCleaver
+    Sprite: {fileID: 21300000, guid: e8ac782deea83b8458d480f967631914, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e8ac782deea83b8458d480f967631914, type: 3}
+    Multiple: 1
+    Hash: d234963a5592298139ed196be30ae917
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: EnhancedDagger
+    Collection: Basic
+    Id: -475034451
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/EnhancedDagger
+    Sprite: {fileID: 21300000, guid: 598c67fa788aba445ba54ce08ea8d976, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 598c67fa788aba445ba54ce08ea8d976, type: 3}
+    Multiple: 1
+    Hash: 92dc78c4c30e41ebade26e20573a00f3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: EvilEye
+    Collection: Basic
+    Id: 531987072
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/EvilEye
+    Sprite: {fileID: 21300000, guid: b60fa26ca92062a4698b1f642d7e1d80, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b60fa26ca92062a4698b1f642d7e1d80, type: 3}
+    Multiple: 1
+    Hash: 9ec912c22b153fa4e02d6cfdc07cb9d2
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ExoticSiegeAxe
+    Collection: Basic
+    Id: 1592462242
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/ExoticSiegeAxe
+    Sprite: {fileID: 21300000, guid: a82b7153571236c43beadcf13f00ad43, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a82b7153571236c43beadcf13f00ad43, type: 3}
+    Multiple: 1
+    Hash: fd8f8433b3e065c911755c732c60d02d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FathersSword
+    Collection: Basic
+    Id: 1436409755
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/FathersSword
+    Sprite: {fileID: 21300000, guid: 23b8e26ef94053145b44ef4642c442b9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 23b8e26ef94053145b44ef4642c442b9, type: 3}
+    Multiple: 1
+    Hash: 8319bb92ea04e34b04eb88b76edfc570
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FireMageWand
+    Collection: Basic
+    Id: -288597605
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/FireMageWand
+    Sprite: {fileID: 21300000, guid: 69d4dbfa4c9f5c64b9e625b38564f836, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 69d4dbfa4c9f5c64b9e625b38564f836, type: 3}
+    Multiple: 1
+    Hash: a1925298a002f76abe88e4fa4588aaad
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ForkedDagger
+    Collection: Basic
+    Id: -1188642482
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/ForkedDagger
+    Sprite: {fileID: 21300000, guid: 227940b686c27bd4f84ccada31094956, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 227940b686c27bd4f84ccada31094956, type: 3}
+    Multiple: 1
+    Hash: b81a1131b736d5579ed3d3e0a32729a5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GatekeeperSword
+    Collection: Basic
+    Id: -2134323157
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/GatekeeperSword
+    Sprite: {fileID: 21300000, guid: bc3587a0e944f54469113872e90f48d5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bc3587a0e944f54469113872e90f48d5, type: 3}
+    Multiple: 1
+    Hash: 3a04756f786b58d7f5dcb00c48cb4648
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GenericHammer
+    Collection: Basic
+    Id: -1641678808
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/GenericHammer
+    Sprite: {fileID: 21300000, guid: 9a4ae96a181d7b54895c7ffe27a2982a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9a4ae96a181d7b54895c7ffe27a2982a, type: 3}
+    Multiple: 1
+    Hash: 931482c905f36d4d3a72665d6c9d4853
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GladiatorSword
+    Collection: Basic
+    Id: 1402957415
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/GladiatorSword
+    Sprite: {fileID: 21300000, guid: a470862d3161a8f4fb3bbbbb0b3f40cc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a470862d3161a8f4fb3bbbbb0b3f40cc, type: 3}
+    Multiple: 1
+    Hash: a1ac893e5f6215bec6df3064668bceed
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Gladius
+    Collection: Basic
+    Id: -1700757722
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Gladius
+    Sprite: {fileID: 21300000, guid: 0273349d97a4c1c48a511111100a7888, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0273349d97a4c1c48a511111100a7888, type: 3}
+    Multiple: 1
+    Hash: 715450b8c06654ff156d343ccbcddfa3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoldenHammer
+    Collection: Basic
+    Id: 1458544246
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/GoldenHammer
+    Sprite: {fileID: 21300000, guid: 6e95c17cdfa69784da1bd2f9a3ff7504, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6e95c17cdfa69784da1bd2f9a3ff7504, type: 3}
+    Multiple: 1
+    Hash: d0ef4704a1c8a17ef0a0dcfbb7d1c6ec
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GoldenWingsDagger
+    Collection: Basic
+    Id: -1884915534
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/GoldenWingsDagger
+    Sprite: {fileID: 21300000, guid: 52d2bfee6e0c3794ba13aae4ed14cea7, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 52d2bfee6e0c3794ba13aae4ed14cea7, type: 3}
+    Multiple: 1
+    Hash: 8135490af2bfa50f65019d849883728a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HardwoodWand
+    Collection: Basic
+    Id: -1659058727
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/HardwoodWand
+    Sprite: {fileID: 21300000, guid: e6d50d8f7f5f6c144ba5d4c7b0e7e0a5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e6d50d8f7f5f6c144ba5d4c7b0e7e0a5, type: 3}
+    Multiple: 1
+    Hash: ec389daf9746b6cff88677e445ad04f1
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HealerWand
+    Collection: Basic
+    Id: -1406190674
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/HealerWand
+    Sprite: {fileID: 21300000, guid: ffe1c61bad9d3724189d05dc1caed877, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ffe1c61bad9d3724189d05dc1caed877, type: 3}
+    Multiple: 1
+    Hash: 1792e2aad183a3914d346494f5d76638
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HeavyMace
+    Collection: Basic
+    Id: 1889573790
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/HeavyMace
+    Sprite: {fileID: 21300000, guid: 19faaf9a52aada640920dd7e43101019, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 19faaf9a52aada640920dd7e43101019, type: 3}
+    Multiple: 1
+    Hash: 19b51c1e94e77eaa19df107b035fb068
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HermitWand
+    Collection: Basic
+    Id: -763649500
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/HermitWand
+    Sprite: {fileID: 21300000, guid: 7bc7e3e3450a1d34e80ede04aad57abf, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 7bc7e3e3450a1d34e80ede04aad57abf, type: 3}
+    Multiple: 1
+    Hash: c1e3860e724bd1f394cba1453e64c2de
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HollowAxe
+    Collection: Basic
+    Id: 1333951902
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/HollowAxe
+    Sprite: {fileID: 21300000, guid: 1c7c7b1a0db7caa4b961a72112a61e14, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1c7c7b1a0db7caa4b961a72112a61e14, type: 3}
+    Multiple: 1
+    Hash: b6fc2ce7b31cf03d4d6faf63d9bfa30c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HunterKnife
+    Collection: Basic
+    Id: 1405688048
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/HunterKnife
+    Sprite: {fileID: 21300000, guid: ec1ea5e4e78eeba4e8d7eb44c73d4eb5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ec1ea5e4e78eeba4e8d7eb44c73d4eb5, type: 3}
+    Multiple: 1
+    Hash: 461388809b63f8a23058a55ea3a93c96
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronAxe
+    Collection: Basic
+    Id: 329068595
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/IronAxe
+    Sprite: {fileID: 21300000, guid: b6d796c91642a7b45904e2b535d6ee2b, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b6d796c91642a7b45904e2b535d6ee2b, type: 3}
+    Multiple: 1
+    Hash: b1a63247b0fb773ba7efd8b6758382e4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronSword
+    Collection: Basic
+    Id: 709246228
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/IronSword
+    Sprite: {fileID: 21300000, guid: e0e89a439fe34954db5cdfe40cc7ef70, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e0e89a439fe34954db5cdfe40cc7ef70, type: 3}
+    Multiple: 1
+    Hash: 984c3a5634639c8998ae3e319d857ff7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: JeweledKatar
+    Collection: Basic
+    Id: -491283276
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/JeweledKatar
+    Sprite: {fileID: 21300000, guid: 397e9bbef6c818044bab7ca06c144756, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 397e9bbef6c818044bab7ca06c144756, type: 3}
+    Multiple: 1
+    Hash: 2fe56441f683eb7909152b02f3b96f80
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: JudgementMace
+    Collection: Basic
+    Id: -1450742598
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/JudgementMace
+    Sprite: {fileID: 21300000, guid: bd90f34a3fae0344d8aa9a42215dd086, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bd90f34a3fae0344d8aa9a42215dd086, type: 3}
+    Multiple: 1
+    Hash: b961a51e624799cbe20f460d8008ef75
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Katana
+    Collection: Basic
+    Id: -1537388043
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Katana
+    Sprite: {fileID: 21300000, guid: 5979547b1254528458a2d65af96f52f7, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5979547b1254528458a2d65af96f52f7, type: 3}
+    Multiple: 1
+    Hash: f5e35be5e11e54a2131cac66c9c4a8a7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: KissOfDeath
+    Collection: Basic
+    Id: -403928008
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/KissOfDeath
+    Sprite: {fileID: 21300000, guid: 8aa0715380afe474eb21af274036f856, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 8aa0715380afe474eb21af274036f856, type: 3}
+    Multiple: 1
+    Hash: f97c0efcdb3a45e0bf99941f6d428d91
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: KnightHammer
+    Collection: Basic
+    Id: 266941762
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/KnightHammer
+    Sprite: {fileID: 21300000, guid: d0fc8716439d11a4a9025212afab1c21, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d0fc8716439d11a4a9025212afab1c21, type: 3}
+    Multiple: 1
+    Hash: a1f56f8da672f102be0c3e7924d80ba7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: KnightSword
+    Collection: Basic
+    Id: 1443114183
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/KnightSword
+    Sprite: {fileID: 21300000, guid: 75e70bcef27834447b82f14a09a2d695, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 75e70bcef27834447b82f14a09a2d695, type: 3}
+    Multiple: 1
+    Hash: 8ddb574577402254200db069c47ebc74
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Kunai
+    Collection: Basic
+    Id: -1427074903
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/Kunai
+    Sprite: {fileID: 21300000, guid: 54b783aa5a18a2544b994daaf68079bd, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 54b783aa5a18a2544b994daaf68079bd, type: 3}
+    Multiple: 1
+    Hash: 14888d2f5525d4caf6d4cec2cf3c0094
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Lute
+    Collection: Basic
+    Id: -1583484663
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/Lute
+    Sprite: {fileID: 21300000, guid: 5629dc3e428956940b1c8ea91664cb1b, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5629dc3e428956940b1c8ea91664cb1b, type: 3}
+    Multiple: 1
+    Hash: 42c6f577f6be0f68fe7e71c7bb860dbf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Machete
+    Collection: Basic
+    Id: -1719245068
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Machete
+    Sprite: {fileID: 21300000, guid: db93bb59e474bc7418f98b257a339435, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: db93bb59e474bc7418f98b257a339435, type: 3}
+    Multiple: 1
+    Hash: 82d04cdab74aed79379e09cded998a5a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MagicSword
+    Collection: Basic
+    Id: -1609203979
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/MagicSword
+    Sprite: {fileID: 21300000, guid: 6df29c115e8323b45aabc2ac10d2f611, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6df29c115e8323b45aabc2ac10d2f611, type: 3}
+    Multiple: 1
+    Hash: 5a7db0565f029bd6f3aee9dca97b7f2f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MilitiamanShortSword
+    Collection: Basic
+    Id: 2126981921
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/MilitiamanShortSword
+    Sprite: {fileID: 21300000, guid: d3452e2b53d7d0f44ac41ee28e799345, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d3452e2b53d7d0f44ac41ee28e799345, type: 3}
+    Multiple: 1
+    Hash: d6bc0c8b1247d10f06d3c37928af163f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: NativeWand
+    Collection: Basic
+    Id: 1372987476
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/NativeWand
+    Sprite: {fileID: 21300000, guid: 4e9910bc774fa844f8c3940495b97c1c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 4e9910bc774fa844f8c3940495b97c1c, type: 3}
+    Multiple: 1
+    Hash: c27725fd6fb41e713cfcb77c3f5635c4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Ninjato
+    Collection: Basic
+    Id: 51744738
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Ninjato
+    Sprite: {fileID: 21300000, guid: ac19708a39b364a459220b42be9192d1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ac19708a39b364a459220b42be9192d1, type: 3}
+    Multiple: 1
+    Hash: 5de0340c80ae55799186678a49a22bc9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: NobleDagger
+    Collection: Basic
+    Id: 676813165
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/NobleDagger
+    Sprite: {fileID: 21300000, guid: af057c5eea9f09941b6a72bfc35b04a1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: af057c5eea9f09941b6a72bfc35b04a1, type: 3}
+    Multiple: 1
+    Hash: 10adbd07f7bc4ca9048e979cf490547e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: NobleSword
+    Collection: Basic
+    Id: 354363960
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/NobleSword
+    Sprite: {fileID: 21300000, guid: c0a61f6016bf9bd499ed2d1f0ede846c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c0a61f6016bf9bd499ed2d1f0ede846c, type: 3}
+    Multiple: 1
+    Hash: 3b654d46b40045c1c6312781f97d0a36
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: NunScepter
+    Collection: Basic
+    Id: 402877284
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/NunScepter
+    Sprite: {fileID: 21300000, guid: 6c0788e090368054bbcc8ca0b67d23b4, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6c0788e090368054bbcc8ca0b67d23b4, type: 3}
+    Multiple: 1
+    Hash: 113aafabca6d4c14a538bbf1f3d082db
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Pan
+    Collection: Basic
+    Id: -1599968104
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/Pan
+    Sprite: {fileID: 21300000, guid: 236119db8a1cfc74d8ddcd4eae01dd78, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 236119db8a1cfc74d8ddcd4eae01dd78, type: 3}
+    Multiple: 1
+    Hash: 087628dcd167b46afceea715b6072ee4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RamHead
+    Collection: Basic
+    Id: -1470841765
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/RamHead
+    Sprite: {fileID: 21300000, guid: 512cab1937ccf5b439f7989ffcad3f69, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 512cab1937ccf5b439f7989ffcad3f69, type: 3}
+    Multiple: 1
+    Hash: f474b96dbc654517186e212ee06769d0
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RavenBeak
+    Collection: Basic
+    Id: 1663149548
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/RavenBeak
+    Sprite: {fileID: 21300000, guid: 5194445d8b9dc3e46aa18798e3ac84c8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5194445d8b9dc3e46aa18798e3ac84c8, type: 3}
+    Multiple: 1
+    Hash: 1172d2e82e4414d224db32b8a6c84dbd
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RedKatana
+    Collection: Basic
+    Id: 913803726
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/RedKatana
+    Sprite: {fileID: 21300000, guid: 69341f1c186b78244a14755022da7416, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 69341f1c186b78244a14755022da7416, type: 3}
+    Multiple: 1
+    Hash: 338f8d385113a9a1d350d37b3117b6b7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RedOakClub
+    Collection: Basic
+    Id: 1848182807
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/RedOakClub
+    Sprite: {fileID: 21300000, guid: 2e3ee2331c54c8d4abad886a27555d74, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 2e3ee2331c54c8d4abad886a27555d74, type: 3}
+    Multiple: 1
+    Hash: 40e21c8e27f3be8c1d08bf7e6e1b6da0
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceAxe
+    Collection: Reference
+    Id: -23923965
+    Path: Equipment/MeleeWeapon1H/Reference/Axe/ReferenceAxe
+    Sprite: {fileID: 21300000, guid: fffa5535ee59d934ca291c391b826d08, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: fffa5535ee59d934ca291c391b826d08, type: 3}
+    Multiple: 1
+    Hash: ccdc02364709e3b9f650b4a679b43c10
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceDagger
+    Collection: Reference
+    Id: -1326785555
+    Path: Equipment/MeleeWeapon1H/Reference/Dagger/ReferenceDagger
+    Sprite: {fileID: 21300000, guid: ff56e260af4a7bd4ca258890d42d6506, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ff56e260af4a7bd4ca258890d42d6506, type: 3}
+    Multiple: 1
+    Hash: 018692a9a2ced8f21f098a95823fe28b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceHammer
+    Collection: Reference
+    Id: -1385654483
+    Path: Equipment/MeleeWeapon1H/Reference/Hammer/ReferenceHammer
+    Sprite: {fileID: 21300000, guid: 90a9908e1e98d614588fe73b515dde6c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 90a9908e1e98d614588fe73b515dde6c, type: 3}
+    Multiple: 1
+    Hash: a3ad5a3b493ce66b6044f057034dc54c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceSword
+    Collection: Reference
+    Id: 2017689018
+    Path: Equipment/MeleeWeapon1H/Reference/Sword/ReferenceSword
+    Sprite: {fileID: 21300000, guid: a1943eb584978954dac6da868a08502d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a1943eb584978954dac6da868a08502d, type: 3}
+    Multiple: 1
+    Hash: a4d7d45da7a25936f6eaff402f8b930c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceWand
+    Collection: Reference
+    Id: 1612153151
+    Path: Equipment/MeleeWeapon1H/Reference/Wand/ReferenceWand
+    Sprite: {fileID: 21300000, guid: 6059e3e15335fc345b077c0772c4ab1e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6059e3e15335fc345b077c0772c4ab1e, type: 3}
+    Multiple: 1
+    Hash: 7f7c017fd755c424aed3ae7a44ba8ad8
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReinforcedMace
+    Collection: Basic
+    Id: -99252852
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/ReinforcedMace
+    Sprite: {fileID: 21300000, guid: 1118ac697dc5e8348ada6a43b6b3356d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1118ac697dc5e8348ada6a43b6b3356d, type: 3}
+    Multiple: 1
+    Hash: 97048cfb833b269d7906b413cad35165
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RunicAxe
+    Collection: Basic
+    Id: 2147419218
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/RunicAxe
+    Sprite: {fileID: 21300000, guid: 345b14a2e5f67ef49868f5afeebca35d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 345b14a2e5f67ef49868f5afeebca35d, type: 3}
+    Multiple: 1
+    Hash: 31d25e4fa02583b0ab3bf1413c9ed583
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RunicSword
+    Collection: Basic
+    Id: 1557594955
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/RunicSword
+    Sprite: {fileID: 21300000, guid: f3a1caee1190280448662a27f88d9021, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f3a1caee1190280448662a27f88d9021, type: 3}
+    Multiple: 1
+    Hash: 899f94b60dd828361debb2962cd4a1bf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustySlaveSword
+    Collection: Basic
+    Id: -706115870
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/RustySlaveSword
+    Sprite: {fileID: 21300000, guid: ed684ef8eb19ff34eaaec0b52ad8d944, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ed684ef8eb19ff34eaaec0b52ad8d944, type: 3}
+    Multiple: 1
+    Hash: 4fdee8b8c949ec3fe81ddd5041663e9e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustySword
+    Collection: Basic
+    Id: 493732305
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/RustySword
+    Sprite: {fileID: 21300000, guid: 92e3891866919c04bbcf2abec82b2a56, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 92e3891866919c04bbcf2abec82b2a56, type: 3}
+    Multiple: 1
+    Hash: 79a68c06f4c826de598d8f3696ffa70e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyVikingAxe
+    Collection: Basic
+    Id: -451810316
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/RustyVikingAxe
+    Sprite: {fileID: 21300000, guid: e1f829e8ff32ec14380cc5b49f72431e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e1f829e8ff32ec14380cc5b49f72431e, type: 3}
+    Multiple: 1
+    Hash: d5481404f267383aff5ecae44dec4b02
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyWoodcutterAxe
+    Collection: Basic
+    Id: -982191632
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/RustyWoodcutterAxe
+    Sprite: {fileID: 21300000, guid: 875908aed722021409235887e077949a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 875908aed722021409235887e077949a, type: 3}
+    Multiple: 1
+    Hash: 8487f9a6d451a942ad727e8209a2567b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Sabre
+    Collection: Basic
+    Id: 2061039256
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Sabre
+    Sprite: {fileID: 21300000, guid: d6468802421e08643b32866babf5f577, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d6468802421e08643b32866babf5f577, type: 3}
+    Multiple: 1
+    Hash: df21c52176e3dbee266652daa8bb73b7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Sai
+    Collection: Basic
+    Id: -1599968260
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/Sai
+    Sprite: {fileID: 21300000, guid: 3175085eb30bd6643bd8eedc24021348, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3175085eb30bd6643bd8eedc24021348, type: 3}
+    Multiple: 1
+    Hash: 6a877311aac635c87402dc7557f2f6d5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SandWarriorSword
+    Collection: Basic
+    Id: 1228182528
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/SandWarriorSword
+    Sprite: {fileID: 21300000, guid: a6ddc93d23b52ee4bb61217850e947b0, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a6ddc93d23b52ee4bb61217850e947b0, type: 3}
+    Multiple: 1
+    Hash: 9aaae9bacf695f99b0344a6ab34ef96d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Scavenger
+    Collection: Basic
+    Id: -2074162623
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Scavenger
+    Sprite: {fileID: 21300000, guid: 0b152fe798eaa6e409c946e0635e631f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0b152fe798eaa6e409c946e0635e631f, type: 3}
+    Multiple: 1
+    Hash: 27ca8a322f587a8b40eadee3732c6759
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShamanClub
+    Collection: Basic
+    Id: 1747871349
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/ShamanClub
+    Sprite: {fileID: 21300000, guid: 39065e8ffcedb7848b61f0912ca022b3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 39065e8ffcedb7848b61f0912ca022b3, type: 3}
+    Multiple: 1
+    Hash: 699682b176911057e698ed17653d6e9d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShamanWand
+    Collection: Basic
+    Id: -1841283047
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/ShamanWand
+    Sprite: {fileID: 21300000, guid: a8698dba842ef214194189cf20bb3d93, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a8698dba842ef214194189cf20bb3d93, type: 3}
+    Multiple: 1
+    Hash: fbcb7f3bd60d4f5d5d374acdefe02692
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShortDagger
+    Collection: Basic
+    Id: -1808791487
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/ShortDagger
+    Sprite: {fileID: 21300000, guid: 66b5938176a354647893ea9f6dc8bed4, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 66b5938176a354647893ea9f6dc8bed4, type: 3}
+    Multiple: 1
+    Hash: fabade1e0697b5931a685ad1d4a18156
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShortSword
+    Collection: Basic
+    Id: 2063276794
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/ShortSword
+    Sprite: {fileID: 21300000, guid: 74c1e0e96bf63bc4c88b8eb728477ef9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 74c1e0e96bf63bc4c88b8eb728477ef9, type: 3}
+    Multiple: 1
+    Hash: 9e50119a1d63179c278f44bb314b11e7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Showel
+    Collection: Basic
+    Id: 1094846627
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/Showel
+    Sprite: {fileID: 21300000, guid: c72c54f9fe3609640a4083edf4dbe077, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c72c54f9fe3609640a4083edf4dbe077, type: 3}
+    Multiple: 1
+    Hash: 707ff14ef2b1a3638f2bda4a8851db04
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Sickle
+    Collection: Basic
+    Id: -962757084
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Sickle
+    Sprite: {fileID: 21300000, guid: 299d85a9bcbbd634c931902d616bd62d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 299d85a9bcbbd634c931902d616bd62d, type: 3}
+    Multiple: 1
+    Hash: 3aa071472217c7f44a3c70fb9de742bb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SiegeAxe
+    Collection: Basic
+    Id: 1202238500
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/SiegeAxe
+    Sprite: {fileID: 21300000, guid: 72842322a09ce4d4e8f8367d25ec6528, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 72842322a09ce4d4e8f8367d25ec6528, type: 3}
+    Multiple: 1
+    Hash: 6d4078647e9be452301e2ff38fcb36d8
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SkullAxe
+    Collection: Basic
+    Id: -1545394326
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/SkullAxe
+    Sprite: {fileID: 21300000, guid: 19edffff0ecca264ab63144a47dae9a5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 19edffff0ecca264ab63144a47dae9a5, type: 3}
+    Multiple: 1
+    Hash: 8a61ffe1ffbd934cb80bd2c4c6b1824f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Slasher
+    Collection: Basic
+    Id: 362546167
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/Slasher
+    Sprite: {fileID: 21300000, guid: ab75a01b31fdf4d43a87848502eec72a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ab75a01b31fdf4d43a87848502eec72a, type: 3}
+    Multiple: 1
+    Hash: e37a9a2cac00a140f631e4dc330d4d66
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SlaveSword
+    Collection: Basic
+    Id: -553633947
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/SlaveSword
+    Sprite: {fileID: 21300000, guid: 865b1b2c68dd8d44a9784bc7a5d916e7, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 865b1b2c68dd8d44a9784bc7a5d916e7, type: 3}
+    Multiple: 1
+    Hash: 77b8c14e7da976b71b82b293627b24b2
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SmallAxe
+    Collection: Basic
+    Id: 584179220
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/SmallAxe
+    Sprite: {fileID: 21300000, guid: a5232bc0bc196964db9de1f41149c403, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a5232bc0bc196964db9de1f41149c403, type: 3}
+    Multiple: 1
+    Hash: f8d092741bd6896f80b98dfe38743276
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Smallsword
+    Collection: Basic
+    Id: -1130107469
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Smallsword
+    Sprite: {fileID: 21300000, guid: 4a43102135044e04a8e93691fc802085, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 4a43102135044e04a8e93691fc802085, type: 3}
+    Multiple: 1
+    Hash: 8c6103e2d15f0eec87820424d026e714
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SnakeWand
+    Collection: Basic
+    Id: -2043725285
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/SnakeWand
+    Sprite: {fileID: 21300000, guid: fe0e3e715a9c6f74dbd8d42c9357c2b0, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: fe0e3e715a9c6f74dbd8d42c9357c2b0, type: 3}
+    Multiple: 1
+    Hash: a0140649de0388990be68fa93d2bd697
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SpikedMace
+    Collection: Basic
+    Id: -1753511901
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/SpikedMace
+    Sprite: {fileID: 21300000, guid: cf92d91e317854c43ac6af768e276bc9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: cf92d91e317854c43ac6af768e276bc9, type: 3}
+    Multiple: 1
+    Hash: 9d91d63b062171ed500106f1c5d4cabf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelDagger
+    Collection: Basic
+    Id: 1933882466
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/SteelDagger
+    Sprite: {fileID: 21300000, guid: 35a959f8e811d0545bdab77244242e8b, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 35a959f8e811d0545bdab77244242e8b, type: 3}
+    Multiple: 1
+    Hash: 751a321d29ef8eeeefe92651ce086f56
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: StolenDagger
+    Collection: Basic
+    Id: -784539352
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/StolenDagger
+    Sprite: {fileID: 21300000, guid: fe993feda079a38459467272e1b50566, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: fe993feda079a38459467272e1b50566, type: 3}
+    Multiple: 1
+    Hash: f908a8a4134f9afd0a6f76e6fef4fc45
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: StoneWarAxe
+    Collection: Basic
+    Id: -1121529276
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/StoneWarAxe
+    Sprite: {fileID: 21300000, guid: 1fd40edd82130e142aa337c832fe8d95, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1fd40edd82130e142aa337c832fe8d95, type: 3}
+    Multiple: 1
+    Hash: fff0736e671bd6ca9009e3edd4943372
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Sword1H
+    Collection: Basic
+    Id: 140832277
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/Sword1H
+    Sprite: {fileID: 21300000, guid: a9b713cd20c5795428843ada9d5c0c5e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a9b713cd20c5795428843ada9d5c0c5e, type: 3}
+    Multiple: 1
+    Hash: 0dc530a6432478a27eec8e5d885bdb51
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TempusWand
+    Collection: Basic
+    Id: -182723641
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/TempusWand
+    Sprite: {fileID: 21300000, guid: de7edc28ec5e20949a24f21ef53e56c3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: de7edc28ec5e20949a24f21ef53e56c3, type: 3}
+    Multiple: 1
+    Hash: d383dae4a02c7423fc3165b24220b6a4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ThiefDagger
+    Collection: Basic
+    Id: -906907323
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/ThiefDagger
+    Sprite: {fileID: 21300000, guid: 9001a91a5d3fabd41a78908e242d003e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9001a91a5d3fabd41a78908e242d003e, type: 3}
+    Multiple: 1
+    Hash: 19fad674896178efa1c85bfe759d2e6f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Tomahawk
+    Collection: Basic
+    Id: -1156055569
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/Tomahawk
+    Sprite: {fileID: 21300000, guid: 9e184c8ce9c94494b81cfe54574bfc72, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9e184c8ce9c94494b81cfe54574bfc72, type: 3}
+    Multiple: 1
+    Hash: 304659880901e68349679bee0eaaa2fd
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TournamentHammer
+    Collection: Basic
+    Id: 1969293680
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/TournamentHammer
+    Sprite: {fileID: 21300000, guid: af10c3c933c0c4540a8ea2c334fe1891, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: af10c3c933c0c4540a8ea2c334fe1891, type: 3}
+    Multiple: 1
+    Hash: 535d169d82bd54a8733efc34eee3455a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TrainingSword
+    Collection: Basic
+    Id: 709246228
+    Path: Equipment/MeleeWeapon1H/Basic/Sword/TrainingSword
+    Sprite: {fileID: 21300000, guid: b4d425194dfc0464e8106abfd4c60802, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b4d425194dfc0464e8106abfd4c60802, type: 3}
+    Multiple: 1
+    Hash: 6025d2cfdd649db532a8bfa998dd1613
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: VikingAxe
+    Collection: Basic
+    Id: -71884143
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/VikingAxe
+    Sprite: {fileID: 21300000, guid: 37ce987f997b87347bc0dbd8a28b29d5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 37ce987f997b87347bc0dbd8a28b29d5, type: 3}
+    Multiple: 1
+    Hash: a5f15aed2e524ff3d7242a209614ffd7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: VolcanicDagger
+    Collection: Basic
+    Id: -1949261002
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/VolcanicDagger
+    Sprite: {fileID: 21300000, guid: 069510a8e932e2b4eb73d1d0c6d7b0df, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 069510a8e932e2b4eb73d1d0c6d7b0df, type: 3}
+    Multiple: 1
+    Hash: 06bcd7b62bd5fad4d05cc51574aeb7d5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarHammer
+    Collection: Basic
+    Id: 2001469307
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/WarHammer
+    Sprite: {fileID: 21300000, guid: 146cdddc543c84746b687ed805d3794f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 146cdddc543c84746b687ed805d3794f, type: 3}
+    Multiple: 1
+    Hash: 42e4b31587fdd0cbf6f46af2b5248566
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarlockWand
+    Collection: Basic
+    Id: 1005092060
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/WarlockWand
+    Sprite: {fileID: 21300000, guid: 297e760930a1dc54ebc4aa78d0a7572f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 297e760930a1dc54ebc4aa78d0a7572f, type: 3}
+    Multiple: 1
+    Hash: 139a4260440abd889b62d00cf2658cae
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WideDagger
+    Collection: Basic
+    Id: 1805639652
+    Path: Equipment/MeleeWeapon1H/Basic/Dagger/WideDagger
+    Sprite: {fileID: 21300000, guid: fbca9a79b2de26543a278304954a5bfb, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: fbca9a79b2de26543a278304954a5bfb, type: 3}
+    Multiple: 1
+    Hash: 297b7f71deafd9ad58c9a24b6a9450ca
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodcutterAxe
+    Collection: Basic
+    Id: 425509443
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/WoodcutterAxe
+    Sprite: {fileID: 21300000, guid: e38c1966959327646b6772c1d4ce2d78, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e38c1966959327646b6772c1d4ce2d78, type: 3}
+    Multiple: 1
+    Hash: b2e26d008088854b6247a1e2cb2e919d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenHammer
+    Collection: Basic
+    Id: 828826727
+    Path: Equipment/MeleeWeapon1H/Basic/Hammer/WoodenHammer
+    Sprite: {fileID: 21300000, guid: c4ae6376782e9c146b8f2aaf2ea0e846, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c4ae6376782e9c146b8f2aaf2ea0e846, type: 3}
+    Multiple: 1
+    Hash: a644cbe814d922e6e98e9189feb9ff89
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenStick
+    Collection: Basic
+    Id: 2035762507
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/WoodenStick
+    Sprite: {fileID: 21300000, guid: 3a98603192af2bc47afefa3a7dca7c9e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3a98603192af2bc47afefa3a7dca7c9e, type: 3}
+    Multiple: 1
+    Hash: 6520f1fee421a724db05d28c9ec60b5d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenWand
+    Collection: Basic
+    Id: -1241562755
+    Path: Equipment/MeleeWeapon1H/Basic/Wand/WoodenWand
+    Sprite: {fileID: 21300000, guid: 9e0bdf2c5996c0d469aefec34b0a51d4, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9e0bdf2c5996c0d469aefec34b0a51d4, type: 3}
+    Multiple: 1
+    Hash: 45aae98af106cca317292e895579bdbc
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodmanAxe
+    Collection: Basic
+    Id: -335020080
+    Path: Equipment/MeleeWeapon1H/Basic/Axe/WoodmanAxe
+    Sprite: {fileID: 21300000, guid: f5b14fc73d3c6c8499eee7276413ad89, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f5b14fc73d3c6c8499eee7276413ad89, type: 3}
+    Multiple: 1
+    Hash: e7594dd301fc123fb4d4f1b7a0cbe534
+    Meta: 
+    Tags: []
+    Config: 
+  MeleeWeapon2H:
+  - Name: AquiaSpear
+    Collection: Basic
+    Id: 194838793
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/AquiaSpear
+    Sprite: {fileID: 21300000, guid: c661a7f328836044da6a755822b3f792, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c661a7f328836044da6a755822b3f792, type: 3}
+    Multiple: 1
+    Hash: 1e45a918a0ed3dadece95c1c0db610b2
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: AssaultSpear
+    Collection: Basic
+    Id: -225041747
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/AssaultSpear
+    Sprite: {fileID: 21300000, guid: 22fabdc260f5d46448ef2e29368efc1c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 22fabdc260f5d46448ef2e29368efc1c, type: 3}
+    Multiple: 1
+    Hash: f9c8c4a63581b407ac30951a1670171c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BambooStick
+    Collection: Basic
+    Id: -1357136797
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/BambooStick
+    Sprite: {fileID: 21300000, guid: d0506bd7850db1849a929e76b4503feb, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d0506bd7850db1849a929e76b4503feb, type: 3}
+    Multiple: 1
+    Hash: 4e5b73aa2c9c21baf1c5ef70ecf9320e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BastardSword
+    Collection: Basic
+    Id: -1773909161
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/BastardSword
+    Sprite: {fileID: 21300000, guid: 1fde2e89cec53e640997f2e11b658532, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1fde2e89cec53e640997f2e11b658532, type: 3}
+    Multiple: 1
+    Hash: c06bf915f90315a5f9526a374c8b622a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BattleSpear
+    Collection: Basic
+    Id: 437672216
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/BattleSpear
+    Sprite: {fileID: 21300000, guid: e241c6fd63c95394a98e7e60ce24e7e6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e241c6fd63c95394a98e7e60ce24e7e6, type: 3}
+    Multiple: 1
+    Hash: b6e60331c0bfe652b2a31173d82b6b4d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BerserkerBlade
+    Collection: Basic
+    Id: -213045748
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/BerserkerBlade
+    Sprite: {fileID: 21300000, guid: 0bc59d24af4cffd4b91642817515f69e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0bc59d24af4cffd4b91642817515f69e, type: 3}
+    Multiple: 1
+    Hash: 7e1c8eea8c121351052bb9db8c8d39d8
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BigPoleaxe
+    Collection: Basic
+    Id: -1860793057
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/BigPoleaxe
+    Sprite: {fileID: 21300000, guid: 16fc1ea5383563b41b05e2bfac98b232, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 16fc1ea5383563b41b05e2bfac98b232, type: 3}
+    Multiple: 1
+    Hash: a2a5c5e67c014f2cbbeffd08b7ee0226
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BizarreSword
+    Collection: Basic
+    Id: 1959124445
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/BizarreSword
+    Sprite: {fileID: 21300000, guid: 63d3c41cfc32f934891f065022203d57, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 63d3c41cfc32f934891f065022203d57, type: 3}
+    Multiple: 1
+    Hash: bd3b7c4262d90a20627fc8557659a5a9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlackHammer
+    Collection: Basic
+    Id: 1146286306
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/BlackHammer
+    Sprite: {fileID: 21300000, guid: d5e17828245d50c4e94ebc2bc6d32d7d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d5e17828245d50c4e94ebc2bc6d32d7d, type: 3}
+    Multiple: 1
+    Hash: 80a00b15d9f1fddbca061776ad9a6da8
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlessedMace
+    Collection: Basic
+    Id: -1615620367
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/BlessedMace
+    Sprite: {fileID: 21300000, guid: 407a3465aab929c45be712110cb7814e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 407a3465aab929c45be712110cb7814e, type: 3}
+    Multiple: 1
+    Hash: c1c1ae9bb25fa7c092ea6125a6d9c1ee
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BonePickaxe
+    Collection: Basic
+    Id: -293261498
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/BonePickaxe
+    Sprite: {fileID: 21300000, guid: 0c3a4b2f215fd384b8f5b5f97e77e25e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0c3a4b2f215fd384b8f5b5f97e77e25e, type: 3}
+    Multiple: 1
+    Hash: 18e81ee8aa93377928ebd4dc8ee5720f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BrassPickaxe
+    Collection: Basic
+    Id: 209032641
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/BrassPickaxe
+    Sprite: {fileID: 21300000, guid: 935f60ca0b9bcbb4fbeca12904a1eeaa, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 935f60ca0b9bcbb4fbeca12904a1eeaa, type: 3}
+    Multiple: 1
+    Hash: cf878e8691f9eb6ac7a7780e3b27bd6d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BrassPoleaxe
+    Collection: Basic
+    Id: -684154884
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/BrassPoleaxe
+    Sprite: {fileID: 21300000, guid: f97ea80c40e5a3d49928f5adc0aa6a6f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f97ea80c40e5a3d49928f5adc0aa6a6f, type: 3}
+    Multiple: 1
+    Hash: 360775ec13771d01af7c4a2ed3084ee5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BroadSword
+    Collection: Basic
+    Id: 812395304
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/BroadSword
+    Sprite: {fileID: 21300000, guid: 1f577ae5aa08eda4a9c256d6fdfafaa7, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1f577ae5aa08eda4a9c256d6fdfafaa7, type: 3}
+    Multiple: 1
+    Hash: 5c08efda39e349299f5594de270c0008
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BronzePickaxe
+    Collection: Basic
+    Id: -157205348
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/BronzePickaxe
+    Sprite: {fileID: 21300000, guid: 1bdc9e1c934b79642b4e56311be54ade, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1bdc9e1c934b79642b4e56311be54ade, type: 3}
+    Multiple: 1
+    Hash: 85f766b65baeea7a1e7333c913401927
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BullHead
+    Collection: Basic
+    Id: -165857486
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/BullHead
+    Sprite: {fileID: 21300000, guid: b6cd775a2a04b1a40acd2eec8d52a89e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b6cd775a2a04b1a40acd2eec8d52a89e, type: 3}
+    Multiple: 1
+    Hash: 04d63d5ea810915616c385a34d91b30c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ButcherKnife
+    Collection: Basic
+    Id: -460452671
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/ButcherKnife
+    Sprite: {fileID: 21300000, guid: 29cf9677ea77bb04ca058e5a8907eb3d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 29cf9677ea77bb04ca058e5a8907eb3d, type: 3}
+    Multiple: 1
+    Hash: 31472094e85e36630decd3be7f52273d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: CataphractSpear
+    Collection: Basic
+    Id: 1685822635
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/CataphractSpear
+    Sprite: {fileID: 21300000, guid: 2ab8c304737d6454f9a25e7489d858ed, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 2ab8c304737d6454f9a25e7489d858ed, type: 3}
+    Multiple: 1
+    Hash: 08f75f083719a005e087486c0f5e5209
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ChronoPoleaxe
+    Collection: Basic
+    Id: -1897754936
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/ChronoPoleaxe
+    Sprite: {fileID: 21300000, guid: 177d27419dab06240a062948ae15b27f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 177d27419dab06240a062948ae15b27f, type: 3}
+    Multiple: 1
+    Hash: cdc925896ca92b1be8d7ef2b22aca665
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: CurvedSamuraiSword
+    Collection: Basic
+    Id: -1480323989
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/CurvedSamuraiSword
+    Sprite: {fileID: 21300000, guid: a8f609d58b1b10d4da1841b348c04182, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a8f609d58b1b10d4da1841b348c04182, type: 3}
+    Multiple: 1
+    Hash: 136930975d41f821e55091f9b0fc6f0d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: DarkStoneHammer
+    Collection: Basic
+    Id: 297043104
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/DarkStoneHammer
+    Sprite: {fileID: 21300000, guid: d385923e4a606fc4089b4f0caf7af455, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d385923e4a606fc4089b4f0caf7af455, type: 3}
+    Multiple: 1
+    Hash: 4bd7464bcf8d8237a2bb64c6bb8af918
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Defender
+    Collection: Basic
+    Id: -475576670
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/Defender
+    Sprite: {fileID: 21300000, guid: 9a67cebfc2469e9479ae46864a4ea0c6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9a67cebfc2469e9479ae46864a4ea0c6, type: 3}
+    Multiple: 1
+    Hash: 22b804728b88c5f0b87183a2a5b02da0
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: DestroyerAxe
+    Collection: Basic
+    Id: -467971342
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/DestroyerAxe
+    Sprite: {fileID: 21300000, guid: 1290a1cad36d8a940a6dec475cb40002, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 1290a1cad36d8a940a6dec475cb40002, type: 3}
+    Multiple: 1
+    Hash: e1d9ccb450d5277c0a22ae6d9c1ecd0c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: EliteSamuraiSword
+    Collection: Basic
+    Id: 1802862997
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/EliteSamuraiSword
+    Sprite: {fileID: 21300000, guid: 43aba6c499aad9f4b815c4c9b4f09971, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 43aba6c499aad9f4b815c4c9b4f09971, type: 3}
+    Multiple: 1
+    Hash: 4800868d01c89c6bb7f67bb3c566c5fb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ExoticSpear
+    Collection: Basic
+    Id: -98227396
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/ExoticSpear
+    Sprite: {fileID: 21300000, guid: f3f4ed81988180c4e9778a3b00607879, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f3f4ed81988180c4e9778a3b00607879, type: 3}
+    Multiple: 1
+    Hash: 387e4ce3b625140f208284faaa2f91ed
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FarmerFork
+    Collection: Basic
+    Id: 698486090
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/FarmerFork
+    Sprite: {fileID: 21300000, guid: 40fe4ade1ca2ba44caf8abf0ccd8b3ed, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 40fe4ade1ca2ba44caf8abf0ccd8b3ed, type: 3}
+    Multiple: 1
+    Hash: afb07eb9acc3f4d320be147876e6e4de
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FarmerScythe
+    Collection: Basic
+    Id: -1504981046
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/FarmerScythe
+    Sprite: {fileID: 21300000, guid: 9620c8a21b8f7214bade2878f7c2a2a6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9620c8a21b8f7214bade2878f7c2a2a6, type: 3}
+    Multiple: 1
+    Hash: 333d840705b1031f947be963d6459217
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FireKnightSword
+    Collection: Basic
+    Id: -471313921
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/FireKnightSword
+    Sprite: {fileID: 21300000, guid: 87c9c07e8a6508449ae22b382582c4fa, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 87c9c07e8a6508449ae22b382582c4fa, type: 3}
+    Multiple: 1
+    Hash: fc697ec9a85c68e209cb02191fb5d438
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FreakPoleaxe
+    Collection: Basic
+    Id: -784537254
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/FreakPoleaxe
+    Sprite: {fileID: 21300000, guid: 09f4c6c0c08489741a63c230192a95cc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 09f4c6c0c08489741a63c230192a95cc, type: 3}
+    Multiple: 1
+    Hash: 4c9a763bde08fe4bddc1b9d89eec97ce
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FrozenGreataxe
+    Collection: Basic
+    Id: 205745908
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/FrozenGreataxe
+    Sprite: {fileID: 21300000, guid: 188fd59330f19674ab870ed3c8bf4b82, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 188fd59330f19674ab870ed3c8bf4b82, type: 3}
+    Multiple: 1
+    Hash: 8ea21ab9719d490175b47b4bf2cb6cdb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FuryLongsword
+    Collection: Basic
+    Id: -1138411480
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/FuryLongsword
+    Sprite: {fileID: 21300000, guid: e8fbb197e3cd75845a723fdb69c97da4, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e8fbb197e3cd75845a723fdb69c97da4, type: 3}
+    Multiple: 1
+    Hash: 544608bae3e2a9991b2af8b2554693ac
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GateCrusher
+    Collection: Basic
+    Id: 2101247762
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/GateCrusher
+    Sprite: {fileID: 21300000, guid: 79eaf2ed35b31504288674f1e047e31c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 79eaf2ed35b31504288674f1e047e31c, type: 3}
+    Multiple: 1
+    Hash: 96a27c6097200abecb3e55b597559054
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GraceMace
+    Collection: Basic
+    Id: -1537608703
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/GraceMace
+    Sprite: {fileID: 21300000, guid: 2e70b17d86689bc4380f8fcea5cdb725, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 2e70b17d86689bc4380f8fcea5cdb725, type: 3}
+    Multiple: 1
+    Hash: f8e4864770e8023eb5730616d078fd55
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GustHammer
+    Collection: Basic
+    Id: 1583336916
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/GustHammer
+    Sprite: {fileID: 21300000, guid: c7e71742a91b4da4d9f661af56e181cc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c7e71742a91b4da4d9f661af56e181cc, type: 3}
+    Multiple: 1
+    Hash: 9cb069c304fbd1da50e9d15e264e3c8e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Halberd
+    Collection: Basic
+    Id: -563247919
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/Halberd
+    Sprite: {fileID: 21300000, guid: 204a937c3e0454e43991d1beafaf2723, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 204a937c3e0454e43991d1beafaf2723, type: 3}
+    Multiple: 1
+    Hash: 83a467582f9e6bcc405a5f90420812db
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Harpoon
+    Collection: Basic
+    Id: -636906280
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/Harpoon
+    Sprite: {fileID: 21300000, guid: 6835cd953d0342a4fa3d3c2370a4a841, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 6835cd953d0342a4fa3d3c2370a4a841, type: 3}
+    Multiple: 1
+    Hash: 47321a7dc2d22b04637ac5c60d1dd9f6
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HeavyHammer
+    Collection: Basic
+    Id: 2029203438
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/HeavyHammer
+    Sprite: {fileID: 21300000, guid: d3b2dca9036792e4aa4d9c2c41194cb8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d3b2dca9036792e4aa4d9c2c41194cb8, type: 3}
+    Multiple: 1
+    Hash: 0a28a1e55a422cd12f5f0e5b17cb25d9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HeavyPoleaxe
+    Collection: Basic
+    Id: -233048766
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/HeavyPoleaxe
+    Sprite: {fileID: 21300000, guid: f9744edbc62ceb04aa45e1db3413a319, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f9744edbc62ceb04aa45e1db3413a319, type: 3}
+    Multiple: 1
+    Hash: 767518f942402fb948b2246f71d02486
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HoleyLightSword
+    Collection: Basic
+    Id: 60520045
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/HoleyLightSword
+    Sprite: {fileID: 21300000, guid: 46188eb72528b87419fd70608a19a7e4, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 46188eb72528b87419fd70608a19a7e4, type: 3}
+    Multiple: 1
+    Hash: d188c19fb9173b3bd86d7a9ea82708c9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronMace
+    Collection: Basic
+    Id: 863168289
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/IronMace
+    Sprite: {fileID: 21300000, guid: d50ab0dfbbedb1a46a8c587471d1c521, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: d50ab0dfbbedb1a46a8c587471d1c521, type: 3}
+    Multiple: 1
+    Hash: f29f3e4d35e95559305d3e77f10681c3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronMallet
+    Collection: Basic
+    Id: 93270648
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/IronMallet
+    Sprite: {fileID: 21300000, guid: 3267185699640164297a3ef9dd691a09, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3267185699640164297a3ef9dd691a09, type: 3}
+    Multiple: 1
+    Hash: df8192a5299cbd4a8af0c6e33218b4ef
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronPickaxe
+    Collection: Basic
+    Id: 588590842
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/IronPickaxe
+    Sprite: {fileID: 21300000, guid: bae76b52caf69034b926efb04e9c9431, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bae76b52caf69034b926efb04e9c9431, type: 3}
+    Multiple: 1
+    Hash: 61106a6a4f1250640f0ac5472bfc4809
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: JusticeBlade
+    Collection: Basic
+    Id: -189510648
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/JusticeBlade
+    Sprite: {fileID: 21300000, guid: bc1b0eefbcbb8074d8cfe6b35b7adc7c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bc1b0eefbcbb8074d8cfe6b35b7adc7c, type: 3}
+    Multiple: 1
+    Hash: e683db381f2c34a905c879b1a3ef5e4c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: KnightMace
+    Collection: Basic
+    Id: 766999546
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/KnightMace
+    Sprite: {fileID: 21300000, guid: 5090678c27f8cd74d9b33bb54600bc1c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5090678c27f8cd74d9b33bb54600bc1c, type: 3}
+    Multiple: 1
+    Hash: abe192f5cc0cf6c3e22d2da36272e0f9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: LongKatana
+    Collection: Basic
+    Id: -258286437
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/LongKatana
+    Sprite: {fileID: 21300000, guid: 8836b733224ec9549a1e8d54d7ea21fc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 8836b733224ec9549a1e8d54d7ea21fc, type: 3}
+    Multiple: 1
+    Hash: 5c818820c985879dc08587f3570da812
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MercenarySword
+    Collection: Basic
+    Id: 2036664400
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/MercenarySword
+    Sprite: {fileID: 21300000, guid: e2b244f07620aef4f81a3ee4db62cba9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e2b244f07620aef4f81a3ee4db62cba9, type: 3}
+    Multiple: 1
+    Hash: bf17190a605ffe05b892d319888d309b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MonsterFang
+    Collection: Basic
+    Id: 1603662771
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/MonsterFang
+    Sprite: {fileID: 21300000, guid: f21efb698c5ef06478f564408d14b457, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f21efb698c5ef06478f564408d14b457, type: 3}
+    Multiple: 1
+    Hash: f31ccb2193872439fd91fb842e623a70
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Morgenstern
+    Collection: Basic
+    Id: 1842527487
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/Morgenstern
+    Sprite: {fileID: 21300000, guid: 8f611de033e708a4a9a7ca8bd28ec206, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 8f611de033e708a4a9a7ca8bd28ec206, type: 3}
+    Multiple: 1
+    Hash: 3c583f99567d019590bc145704791200
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: OldWoodenHammer
+    Collection: Basic
+    Id: 529519142
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/OldWoodenHammer
+    Sprite: {fileID: 21300000, guid: bb5d5507a87b56547b69dec428e42dea, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bb5d5507a87b56547b69dec428e42dea, type: 3}
+    Multiple: 1
+    Hash: 850f54f43c0ec47bf1ce2c5b8c4cc050
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: OrcPoleaxe
+    Collection: Basic
+    Id: -1132365615
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/OrcPoleaxe
+    Sprite: {fileID: 21300000, guid: 994d0ae4d9ae16a46a0f9962463c2242, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 994d0ae4d9ae16a46a0f9962463c2242, type: 3}
+    Multiple: 1
+    Hash: 96c5332ce46549de63c4a60ef995b1a4
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Poleaxe
+    Collection: Basic
+    Id: -978090753
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/Poleaxe
+    Sprite: {fileID: 21300000, guid: ec22c4393e960884cb73e70660c1fff1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ec22c4393e960884cb73e70660c1fff1, type: 3}
+    Multiple: 1
+    Hash: 075678dace470b79ddec3747788bfd1c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RareAxe
+    Collection: Basic
+    Id: 988771817
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RareAxe
+    Sprite: {fileID: 21300000, guid: 9257368f31db0054ca4ec594f81ea1b9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9257368f31db0054ca4ec594f81ea1b9, type: 3}
+    Multiple: 1
+    Hash: f1a8889d9817050a44e5efc0716143d6
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RareHammer
+    Collection: Basic
+    Id: -2137556817
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/RareHammer
+    Sprite: {fileID: 21300000, guid: 374aaca9fc96a754e9e185f03a8f6699, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 374aaca9fc96a754e9e185f03a8f6699, type: 3}
+    Multiple: 1
+    Hash: d41fec3e725a14c8e677baf30d718f90
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceAxe
+    Collection: Reference
+    Id: -23923965
+    Path: Equipment/MeleeWeapon2H/Reference/Axe/ReferenceAxe
+    Sprite: {fileID: 21300000, guid: 3de6878ced3d2a0458f5498ce50a15b5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3de6878ced3d2a0458f5498ce50a15b5, type: 3}
+    Multiple: 1
+    Hash: 5bacf8ec3840bf3815a03f3743ad4a3d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceHammer
+    Collection: Reference
+    Id: -1385654483
+    Path: Equipment/MeleeWeapon2H/Reference/Hammer/ReferenceHammer
+    Sprite: {fileID: 21300000, guid: 852c4a7ed67aa174b8386c20d3b27d01, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 852c4a7ed67aa174b8386c20d3b27d01, type: 3}
+    Multiple: 1
+    Hash: 30ff34bea182105c9ae2d58e8fc68570
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceSpear
+    Collection: Reference
+    Id: -1315991782
+    Path: Equipment/MeleeWeapon2H/Reference/Spear/ReferenceSpear
+    Sprite: {fileID: 21300000, guid: 40c4dda07316a7243bf1778bf8c68578, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 40c4dda07316a7243bf1778bf8c68578, type: 3}
+    Multiple: 1
+    Hash: cc8c0b148e2e2a163e511ba7b5f49e31
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceSword
+    Collection: Reference
+    Id: 2017689018
+    Path: Equipment/MeleeWeapon2H/Reference/Sword/ReferenceSword
+    Sprite: {fileID: 21300000, guid: b0667e974d74c6e478c3fca41b75dcc9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b0667e974d74c6e478c3fca41b75dcc9, type: 3}
+    Multiple: 1
+    Hash: 1d3a67f73d7a5c82b4a182462a3d8250
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RunicGreataxe
+    Collection: Basic
+    Id: 1001408623
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RunicGreataxe
+    Sprite: {fileID: 21300000, guid: ec2ada58c451e024dafa51c8050e5452, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ec2ada58c451e024dafa51c8050e5452, type: 3}
+    Multiple: 1
+    Hash: 40093c23c5625682babb560fc33f8161
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustedPickaxe
+    Collection: Basic
+    Id: -1153719083
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RustedPickaxe
+    Sprite: {fileID: 21300000, guid: 09c8c0a7c4c4d1c49934a654111f1ddf, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 09c8c0a7c4c4d1c49934a654111f1ddf, type: 3}
+    Multiple: 1
+    Hash: b57422dbc2f6106f0de17b4e04190d8a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyBastardSword
+    Collection: Basic
+    Id: -1060014038
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/RustyBastardSword
+    Sprite: {fileID: 21300000, guid: 4efc638d87b7aaa47844492e249cdba6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 4efc638d87b7aaa47844492e249cdba6, type: 3}
+    Multiple: 1
+    Hash: f679d3b2bb9f142ef2215067f8efbf1d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyMountainSword
+    Collection: Basic
+    Id: -815736230
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/RustyMountainSword
+    Sprite: {fileID: 21300000, guid: 502862ae4cb6fb7479fdc5b234f4594b, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 502862ae4cb6fb7479fdc5b234f4594b, type: 3}
+    Multiple: 1
+    Hash: 57cee22376dc49bab11481d3ce6a2499
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyPaleSword
+    Collection: Basic
+    Id: 1329407729
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/RustyPaleSword
+    Sprite: {fileID: 21300000, guid: 14ffa672efadec147bafe9da2fdbb31c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 14ffa672efadec147bafe9da2fdbb31c, type: 3}
+    Multiple: 1
+    Hash: 392e774720a6382c1230570c4e35b6ab
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyPoleaxe
+    Collection: Basic
+    Id: 1350612388
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RustyPoleaxe
+    Sprite: {fileID: 21300000, guid: c627a29376e199741ae16ca698d832d9, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c627a29376e199741ae16ca698d832d9, type: 3}
+    Multiple: 1
+    Hash: 736011bb373e90201a722b5d3b58ecff
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyWoodcutterGreataxe
+    Collection: Basic
+    Id: -2054145270
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RustyWoodcutterGreataxe
+    Sprite: {fileID: 21300000, guid: 2a0d1379e89511c4e915462a0299789e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 2a0d1379e89511c4e915462a0299789e, type: 3}
+    Multiple: 1
+    Hash: 4dc99d8607b4b7083236f5cd36017764
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyWoodcutterPoleaxe
+    Collection: Basic
+    Id: -274656806
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/RustyWoodcutterPoleaxe
+    Sprite: {fileID: 21300000, guid: a8f21126b5605324ea8bf1fe094da203, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a8f21126b5605324ea8bf1fe094da203, type: 3}
+    Multiple: 1
+    Hash: 489a2814a117b67380e441359f7d8ce5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Scythe
+    Collection: Basic
+    Id: 1854552165
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/Scythe
+    Sprite: {fileID: 21300000, guid: 8b009f340dbb7694687c1092937001a8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 8b009f340dbb7694687c1092937001a8, type: 3}
+    Multiple: 1
+    Hash: fadfb26e6f0af5e8cfb76e66e1249874
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SiegeSpear
+    Collection: Basic
+    Id: 1381594909
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/SiegeSpear
+    Sprite: {fileID: 21300000, guid: e5ac81275bf6ea24faec9ac18f7881de, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: e5ac81275bf6ea24faec9ac18f7881de, type: 3}
+    Multiple: 1
+    Hash: 3d2f9d3156b82f7467e2352182787914
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SkeletonKing
+    Collection: Basic
+    Id: -1706920829
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/SkeletonKing
+    Sprite: {fileID: 21300000, guid: 09771873399f2754594bf883bf46b094, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 09771873399f2754594bf883bf46b094, type: 3}
+    Multiple: 1
+    Hash: 423349b3b197ecaefaac8553f826a003
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SkullCrusher
+    Collection: Basic
+    Id: 1498227142
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/SkullCrusher
+    Sprite: {fileID: 21300000, guid: 3a31f40048f5d664facc325e353dd793, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3a31f40048f5d664facc325e353dd793, type: 3}
+    Multiple: 1
+    Hash: d61b09839e461e8ad7f810a67db8148c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelGreataxe
+    Collection: Basic
+    Id: 1348089416
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/SteelGreataxe
+    Sprite: {fileID: 21300000, guid: 08c35a136675e3b4c964a768319937b0, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 08c35a136675e3b4c964a768319937b0, type: 3}
+    Multiple: 1
+    Hash: 16110cd5bb7048fdf72b8049c893ffa1
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelPickaxe
+    Collection: Basic
+    Id: 535222827
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/SteelPickaxe
+    Sprite: {fileID: 21300000, guid: 87a48943bd171f24f887670b99ea832a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 87a48943bd171f24f887670b99ea832a, type: 3}
+    Multiple: 1
+    Hash: 9f4df322b9874bce63810dfe2124dc5d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: StoneMace
+    Collection: Basic
+    Id: -2035715272
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/StoneMace
+    Sprite: {fileID: 21300000, guid: be4d4c7488a752846b3876bff4a10830, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: be4d4c7488a752846b3876bff4a10830, type: 3}
+    Multiple: 1
+    Hash: c530cce3e241f2b93b542215af0861a5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: StraightSword
+    Collection: Basic
+    Id: 845104244
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/StraightSword
+    Sprite: {fileID: 21300000, guid: 4695d029434520741a512e28a5c9ce28, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 4695d029434520741a512e28a5c9ce28, type: 3}
+    Multiple: 1
+    Hash: 2a4eb5742862872a3a9e05373b8521f6
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: StrikeSpear
+    Collection: Basic
+    Id: 2059959024
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/StrikeSpear
+    Sprite: {fileID: 21300000, guid: 3a7a8cef1d4b2e74785f87fcf44a7725, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3a7a8cef1d4b2e74785f87fcf44a7725, type: 3}
+    Multiple: 1
+    Hash: ba43836333f8f77b6f060c32e9add47a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Sword2H
+    Collection: Basic
+    Id: -1425251664
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/Sword2H
+    Sprite: {fileID: 21300000, guid: 0de28f8461b821045919879f3a47d4c6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0de28f8461b821045919879f3a47d4c6, type: 3}
+    Multiple: 1
+    Hash: ef460644bdb4c7b6844c717ab48a7ae9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TitanHammer
+    Collection: Basic
+    Id: 1202681561
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/TitanHammer
+    Sprite: {fileID: 21300000, guid: da46a940224601f40bf6b3160cc7bb8e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: da46a940224601f40bf6b3160cc7bb8e, type: 3}
+    Multiple: 1
+    Hash: 9e992f4dd5b892d6e948aa5eec1bdd9f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TwoHandedSword
+    Collection: Basic
+    Id: -18137106
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/TwoHandedSword
+    Sprite: {fileID: 21300000, guid: 03fdde7a2e6c58a408d54e9fc5364870, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 03fdde7a2e6c58a408d54e9fc5364870, type: 3}
+    Multiple: 1
+    Hash: 45babdeb90f34044e98aeeb516b659cb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TwoHandedVikingAxe
+    Collection: Basic
+    Id: -1440257737
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/TwoHandedVikingAxe
+    Sprite: {fileID: 21300000, guid: f9637b1e75fb5b147bd54cc4248c850e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: f9637b1e75fb5b147bd54cc4248c850e, type: 3}
+    Multiple: 1
+    Hash: 34643358139ce899c5d54639d2227201
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: UndeadKing
+    Collection: Basic
+    Id: -1959182767
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/UndeadKing
+    Sprite: {fileID: 21300000, guid: 3b637eb94f2e6fa4badbb77c98ed585f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3b637eb94f2e6fa4badbb77c98ed585f, type: 3}
+    Multiple: 1
+    Hash: 3ac0f504a4974b64aa57be651cf206f9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarClub
+    Collection: Basic
+    Id: -80048283
+    Path: Equipment/MeleeWeapon2H/Basic/Hammer/WarClub
+    Sprite: {fileID: 21300000, guid: 716d580d36a8bb747aa7d7b128638439, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 716d580d36a8bb747aa7d7b128638439, type: 3}
+    Multiple: 1
+    Hash: d0ba932878020c601e993868ccfae929
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarriorGreatsword
+    Collection: Basic
+    Id: 448930167
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/WarriorGreatsword
+    Sprite: {fileID: 21300000, guid: 7892e3ef3258cf24c928062fb2c176f6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 7892e3ef3258cf24c928062fb2c176f6, type: 3}
+    Multiple: 1
+    Hash: 3fe59f5a343300c83c0f703b230d66ba
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WideHollowSword
+    Collection: Basic
+    Id: -787984942
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/WideHollowSword
+    Sprite: {fileID: 21300000, guid: 5fa4ca8b53f89404d8e2c80e65ae5d7f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5fa4ca8b53f89404d8e2c80e65ae5d7f, type: 3}
+    Multiple: 1
+    Hash: f72148eceb01f2597ef0e451eb339652
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodcutterAxePoleaxe
+    Collection: Basic
+    Id: 2092767757
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/WoodcutterAxePoleaxe
+    Sprite: {fileID: 21300000, guid: 7871596c24bd12d458d7462034c31daa, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 7871596c24bd12d458d7462034c31daa, type: 3}
+    Multiple: 1
+    Hash: 968962f835459c5f20d490c0c9d8f2dc
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodcutterIronPoleaxe
+    Collection: Basic
+    Id: 1952527271
+    Path: Equipment/MeleeWeapon2H/Basic/Axe/WoodcutterIronPoleaxe
+    Sprite: {fileID: 21300000, guid: fce393dcdbf3f8c40aed7c264a110318, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: fce393dcdbf3f8c40aed7c264a110318, type: 3}
+    Multiple: 1
+    Hash: 33cc90e17d8b1a19d614ceaa3991f5fb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenLongSword
+    Collection: Basic
+    Id: 972580802
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/WoodenLongSword
+    Sprite: {fileID: 21300000, guid: cff36a1b7f834244d86bd9215808594a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: cff36a1b7f834244d86bd9215808594a, type: 3}
+    Multiple: 1
+    Hash: 7e9a69e3107ed536813d3cbcb0fb3ac1
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenStake
+    Collection: Basic
+    Id: 1679532405
+    Path: Equipment/MeleeWeapon2H/Basic/Lance/WoodenStake
+    Sprite: {fileID: 21300000, guid: 8c1e50f2749878c41ba0a801627c4a39, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 8c1e50f2749878c41ba0a801627c4a39, type: 3}
+    Multiple: 1
+    Hash: 111fcd23658829a8242956ce04dd42f7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ZardBlade
+    Collection: Basic
+    Id: 214314084
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/ZardBlade
+    Sprite: {fileID: 21300000, guid: 3adb52242320db14f848f47a14db8c30, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 3adb52242320db14f848f47a14db8c30, type: 3}
+    Multiple: 1
+    Hash: 5517c3be5d21eebae4e1165c61e35b42
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Zweihander
+    Collection: Basic
+    Id: -1825385470
+    Path: Equipment/MeleeWeapon2H/Basic/Sword/Zweihander
+    Sprite: {fileID: 21300000, guid: 9bf248be91dbb3347a2f6c7923907e93, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 9bf248be91dbb3347a2f6c7923907e93, type: 3}
+    Multiple: 1
+    Hash: e831bdfbfa02ecac58d3eea57c836a17
+    Meta: 
+    Tags: []
+    Config: 
+  Bow:
+  - Name: BattleBow
+    Collection: Basic
+    Id: -5669335
+    Path: Equipment/Bow/Basic/BattleBow
+    Sprite: {fileID: 21300004, guid: 44f42bd4fced6924ca83b965947eeadc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 44f42bd4fced6924ca83b965947eeadc, type: 3}
+    - {fileID: 21300000, guid: 44f42bd4fced6924ca83b965947eeadc, type: 3}
+    - {fileID: 21300002, guid: 44f42bd4fced6924ca83b965947eeadc, type: 3}
+    - {fileID: 21300006, guid: 44f42bd4fced6924ca83b965947eeadc, type: 3}
+    Multiple: 1
+    Hash: b66c28a944a80fc1a5192dc435aff551
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BoneBow
+    Collection: Skeleton
+    Id: -790584200
+    Path: Equipment/Bow/Skeleton/BoneBow
+    Sprite: {fileID: 21300004, guid: 7e7ff5cbec1cb9147aab9866710a38d1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 7e7ff5cbec1cb9147aab9866710a38d1, type: 3}
+    - {fileID: 21300000, guid: 7e7ff5cbec1cb9147aab9866710a38d1, type: 3}
+    - {fileID: 21300002, guid: 7e7ff5cbec1cb9147aab9866710a38d1, type: 3}
+    - {fileID: 21300006, guid: 7e7ff5cbec1cb9147aab9866710a38d1, type: 3}
+    Multiple: 1
+    Hash: 94eb05c33be5bd7f9670c16f28b2b9b5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BronzeBow
+    Collection: Basic
+    Id: -1461734119
+    Path: Equipment/Bow/Basic/BronzeBow
+    Sprite: {fileID: 21300004, guid: 8083453a6451dd8449f371083acfb4ba, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 8083453a6451dd8449f371083acfb4ba, type: 3}
+    - {fileID: 21300000, guid: 8083453a6451dd8449f371083acfb4ba, type: 3}
+    - {fileID: 21300002, guid: 8083453a6451dd8449f371083acfb4ba, type: 3}
+    - {fileID: 21300006, guid: 8083453a6451dd8449f371083acfb4ba, type: 3}
+    Multiple: 1
+    Hash: e436de522061b653af064d3dce5df630
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FathersBow
+    Collection: Basic
+    Id: -2141642056
+    Path: Equipment/Bow/Basic/FathersBow
+    Sprite: {fileID: 21300004, guid: f9ac603d8c8460e4998c9b7362ab4a13, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: f9ac603d8c8460e4998c9b7362ab4a13, type: 3}
+    - {fileID: 21300000, guid: f9ac603d8c8460e4998c9b7362ab4a13, type: 3}
+    - {fileID: 21300002, guid: f9ac603d8c8460e4998c9b7362ab4a13, type: 3}
+    - {fileID: 21300006, guid: f9ac603d8c8460e4998c9b7362ab4a13, type: 3}
+    Multiple: 1
+    Hash: 3fedea33cfc505b5b3e26e30d3fed58f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HunterBow
+    Collection: Basic
+    Id: -847681257
+    Path: Equipment/Bow/Basic/HunterBow
+    Sprite: {fileID: 21300004, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    - {fileID: 21300000, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    - {fileID: 21300002, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    - {fileID: 21300006, guid: d4824aab07873c54da9f2791f43a5bdc, type: 3}
+    Multiple: 1
+    Hash: f6aab57078de8aef5b70833a45e9bb57
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HurricaneBow
+    Collection: Basic
+    Id: 1666239264
+    Path: Equipment/Bow/Basic/HurricaneBow
+    Sprite: {fileID: 21300004, guid: 1534a44007b0ab24682d4963d2c4be82, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 1534a44007b0ab24682d4963d2c4be82, type: 3}
+    - {fileID: 21300000, guid: 1534a44007b0ab24682d4963d2c4be82, type: 3}
+    - {fileID: 21300002, guid: 1534a44007b0ab24682d4963d2c4be82, type: 3}
+    - {fileID: 21300006, guid: 1534a44007b0ab24682d4963d2c4be82, type: 3}
+    Multiple: 1
+    Hash: fbc5818a761a6d4e65189305b2c02739
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronBow
+    Collection: Basic
+    Id: 376122905
+    Path: Equipment/Bow/Basic/IronBow
+    Sprite: {fileID: 21300004, guid: 75f8eac5f3a272947b704e04925fbd82, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 75f8eac5f3a272947b704e04925fbd82, type: 3}
+    - {fileID: 21300000, guid: 75f8eac5f3a272947b704e04925fbd82, type: 3}
+    - {fileID: 21300002, guid: 75f8eac5f3a272947b704e04925fbd82, type: 3}
+    - {fileID: 21300006, guid: 75f8eac5f3a272947b704e04925fbd82, type: 3}
+    Multiple: 1
+    Hash: 58ba4cf9ec7119450b28199377fb0cc0
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: LongBow
+    Collection: Basic
+    Id: 1825400473
+    Path: Equipment/Bow/Basic/LongBow
+    Sprite: {fileID: 21300004, guid: 2fdafe2b803e17748a0f7bf42da81c24, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 2fdafe2b803e17748a0f7bf42da81c24, type: 3}
+    - {fileID: 21300000, guid: 2fdafe2b803e17748a0f7bf42da81c24, type: 3}
+    - {fileID: 21300002, guid: 2fdafe2b803e17748a0f7bf42da81c24, type: 3}
+    - {fileID: 21300006, guid: 2fdafe2b803e17748a0f7bf42da81c24, type: 3}
+    Multiple: 1
+    Hash: 5503df867f054410ec1897a7b73f4df9
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: LongWillowBow
+    Collection: Basic
+    Id: -1500221561
+    Path: Equipment/Bow/Basic/LongWillowBow
+    Sprite: {fileID: 21300004, guid: 9c49df65a3183614a9cd680b7bf5e7c2, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 9c49df65a3183614a9cd680b7bf5e7c2, type: 3}
+    - {fileID: 21300000, guid: 9c49df65a3183614a9cd680b7bf5e7c2, type: 3}
+    - {fileID: 21300002, guid: 9c49df65a3183614a9cd680b7bf5e7c2, type: 3}
+    - {fileID: 21300006, guid: 9c49df65a3183614a9cd680b7bf5e7c2, type: 3}
+    Multiple: 1
+    Hash: 0e1ccdd2871312088f3e7d9f14cde34c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ManticoreBow
+    Collection: Basic
+    Id: 2068300503
+    Path: Equipment/Bow/Basic/ManticoreBow
+    Sprite: {fileID: 21300004, guid: ee4dc69b72fca9a468c68652cf777608, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: ee4dc69b72fca9a468c68652cf777608, type: 3}
+    - {fileID: 21300000, guid: ee4dc69b72fca9a468c68652cf777608, type: 3}
+    - {fileID: 21300002, guid: ee4dc69b72fca9a468c68652cf777608, type: 3}
+    - {fileID: 21300006, guid: ee4dc69b72fca9a468c68652cf777608, type: 3}
+    Multiple: 1
+    Hash: e9082e250bf3ef21392de6a54339d7cc
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MarauderBow
+    Collection: Basic
+    Id: 1740522900
+    Path: Equipment/Bow/Basic/MarauderBow
+    Sprite: {fileID: 21300004, guid: e82c4b09afdfb8344a26a4984b0219fd, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: e82c4b09afdfb8344a26a4984b0219fd, type: 3}
+    - {fileID: 21300000, guid: e82c4b09afdfb8344a26a4984b0219fd, type: 3}
+    - {fileID: 21300002, guid: e82c4b09afdfb8344a26a4984b0219fd, type: 3}
+    - {fileID: 21300006, guid: e82c4b09afdfb8344a26a4984b0219fd, type: 3}
+    Multiple: 1
+    Hash: 8f1d4ad98185504cc3df93bc0ee9903c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: MiddleBow
+    Collection: Basic
+    Id: 638962656
+    Path: Equipment/Bow/Basic/MiddleBow
+    Sprite: {fileID: 21300004, guid: 96a25ffc36a4d1e4aa88b77aa9b49f9d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 96a25ffc36a4d1e4aa88b77aa9b49f9d, type: 3}
+    - {fileID: 21300000, guid: 96a25ffc36a4d1e4aa88b77aa9b49f9d, type: 3}
+    - {fileID: 21300002, guid: 96a25ffc36a4d1e4aa88b77aa9b49f9d, type: 3}
+    - {fileID: 21300006, guid: 96a25ffc36a4d1e4aa88b77aa9b49f9d, type: 3}
+    Multiple: 1
+    Hash: 2ac7d6d0c1f91084cef82351b97e61a8
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: OakBow
+    Collection: Basic
+    Id: -199414102
+    Path: Equipment/Bow/Basic/OakBow
+    Sprite: {fileID: 21300004, guid: 2701809fe6321594a854141d027c474d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 2701809fe6321594a854141d027c474d, type: 3}
+    - {fileID: 21300000, guid: 2701809fe6321594a854141d027c474d, type: 3}
+    - {fileID: 21300002, guid: 2701809fe6321594a854141d027c474d, type: 3}
+    - {fileID: 21300006, guid: 2701809fe6321594a854141d027c474d, type: 3}
+    Multiple: 1
+    Hash: eab7358ee6eef8758ec6e8fd4d04e0de
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RangerBow
+    Collection: Basic
+    Id: 484691000
+    Path: Equipment/Bow/Basic/RangerBow
+    Sprite: {fileID: 21300004, guid: 46af69f010b3086458920d7fc2f15dbe, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 46af69f010b3086458920d7fc2f15dbe, type: 3}
+    - {fileID: 21300000, guid: 46af69f010b3086458920d7fc2f15dbe, type: 3}
+    - {fileID: 21300002, guid: 46af69f010b3086458920d7fc2f15dbe, type: 3}
+    - {fileID: 21300006, guid: 46af69f010b3086458920d7fc2f15dbe, type: 3}
+    Multiple: 1
+    Hash: 7aa64cfc04bc9402c8273669781d4a11
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RedwoodBow
+    Collection: Basic
+    Id: 543676375
+    Path: Equipment/Bow/Basic/RedwoodBow
+    Sprite: {fileID: 21300004, guid: e0a3b2d7f64afb34995e563432c54a41, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: e0a3b2d7f64afb34995e563432c54a41, type: 3}
+    - {fileID: 21300000, guid: e0a3b2d7f64afb34995e563432c54a41, type: 3}
+    - {fileID: 21300002, guid: e0a3b2d7f64afb34995e563432c54a41, type: 3}
+    - {fileID: 21300006, guid: e0a3b2d7f64afb34995e563432c54a41, type: 3}
+    Multiple: 1
+    Hash: 19cd83549ad009894904f1405634a301
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceLongBow
+    Collection: Reference
+    Id: 813454003
+    Path: Equipment/Bow/Reference/ReferenceLongBow
+    Sprite: {fileID: 21300004, guid: 76cc311d2f799a14e81e21c145d6c574, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 76cc311d2f799a14e81e21c145d6c574, type: 3}
+    - {fileID: 21300000, guid: 76cc311d2f799a14e81e21c145d6c574, type: 3}
+    - {fileID: 21300002, guid: 76cc311d2f799a14e81e21c145d6c574, type: 3}
+    - {fileID: 21300006, guid: 76cc311d2f799a14e81e21c145d6c574, type: 3}
+    Multiple: 1
+    Hash: 254c7aa66c4a6cb9c0a6214a11c02886
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceMediumBow
+    Collection: Reference
+    Id: 877013562
+    Path: Equipment/Bow/Reference/ReferenceMediumBow
+    Sprite: {fileID: 21300004, guid: 5ba15786ed487f54e80bb3f886479426, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 5ba15786ed487f54e80bb3f886479426, type: 3}
+    - {fileID: 21300000, guid: 5ba15786ed487f54e80bb3f886479426, type: 3}
+    - {fileID: 21300002, guid: 5ba15786ed487f54e80bb3f886479426, type: 3}
+    - {fileID: 21300006, guid: 5ba15786ed487f54e80bb3f886479426, type: 3}
+    Multiple: 1
+    Hash: 4808d1585f69f8644109fea780e6d37c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ReferenceShortBow
+    Collection: Reference
+    Id: 2090008363
+    Path: Equipment/Bow/Reference/ReferenceShortBow
+    Sprite: {fileID: 21300004, guid: 7c479a03005ae424cbbb980b0170ceaf, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 7c479a03005ae424cbbb980b0170ceaf, type: 3}
+    - {fileID: 21300000, guid: 7c479a03005ae424cbbb980b0170ceaf, type: 3}
+    - {fileID: 21300002, guid: 7c479a03005ae424cbbb980b0170ceaf, type: 3}
+    - {fileID: 21300006, guid: 7c479a03005ae424cbbb980b0170ceaf, type: 3}
+    Multiple: 1
+    Hash: 87cfa11cdb3eb76d46c5e8257a462d74
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SalamanderBow
+    Collection: Basic
+    Id: 1929919741
+    Path: Equipment/Bow/Basic/SalamanderBow
+    Sprite: {fileID: 21300004, guid: a915b2520dc417d4099c91c76d2a9730, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: a915b2520dc417d4099c91c76d2a9730, type: 3}
+    - {fileID: 21300000, guid: a915b2520dc417d4099c91c76d2a9730, type: 3}
+    - {fileID: 21300002, guid: a915b2520dc417d4099c91c76d2a9730, type: 3}
+    - {fileID: 21300006, guid: a915b2520dc417d4099c91c76d2a9730, type: 3}
+    Multiple: 1
+    Hash: aa13f4f42af6167c06c7af0af0913db5
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SandShooterBow
+    Collection: Basic
+    Id: -706533617
+    Path: Equipment/Bow/Basic/SandShooterBow
+    Sprite: {fileID: 21300004, guid: 6c98354bf33ddd940b8231c9f2f53d3d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 6c98354bf33ddd940b8231c9f2f53d3d, type: 3}
+    - {fileID: 21300000, guid: 6c98354bf33ddd940b8231c9f2f53d3d, type: 3}
+    - {fileID: 21300002, guid: 6c98354bf33ddd940b8231c9f2f53d3d, type: 3}
+    - {fileID: 21300006, guid: 6c98354bf33ddd940b8231c9f2f53d3d, type: 3}
+    Multiple: 1
+    Hash: e0d244f8f80849e4e364a079dd7d2f31
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ScoutLongBow
+    Collection: Basic
+    Id: 979754535
+    Path: Equipment/Bow/Basic/ScoutLongBow
+    Sprite: {fileID: 21300004, guid: 1ecd525b1a617094f9310913e8f1e13a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 1ecd525b1a617094f9310913e8f1e13a, type: 3}
+    - {fileID: 21300000, guid: 1ecd525b1a617094f9310913e8f1e13a, type: 3}
+    - {fileID: 21300002, guid: 1ecd525b1a617094f9310913e8f1e13a, type: 3}
+    - {fileID: 21300006, guid: 1ecd525b1a617094f9310913e8f1e13a, type: 3}
+    Multiple: 1
+    Hash: 56d78c222e267172f3498bba607f864c
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ScoutMediumBow
+    Collection: Basic
+    Id: -133192478
+    Path: Equipment/Bow/Basic/ScoutMediumBow
+    Sprite: {fileID: 21300004, guid: 437aabd250fe0fe4b96cf47ff7c7afb1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 437aabd250fe0fe4b96cf47ff7c7afb1, type: 3}
+    - {fileID: 21300000, guid: 437aabd250fe0fe4b96cf47ff7c7afb1, type: 3}
+    - {fileID: 21300002, guid: 437aabd250fe0fe4b96cf47ff7c7afb1, type: 3}
+    - {fileID: 21300006, guid: 437aabd250fe0fe4b96cf47ff7c7afb1, type: 3}
+    Multiple: 1
+    Hash: 5ea7235c8a8698e6c948982c4c9ebb37
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ShortWillowBow
+    Collection: Basic
+    Id: 477478623
+    Path: Equipment/Bow/Basic/ShortWillowBow
+    Sprite: {fileID: 21300004, guid: 512491c4dc5fc7b4487e36adb7e42041, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 512491c4dc5fc7b4487e36adb7e42041, type: 3}
+    - {fileID: 21300000, guid: 512491c4dc5fc7b4487e36adb7e42041, type: 3}
+    - {fileID: 21300002, guid: 512491c4dc5fc7b4487e36adb7e42041, type: 3}
+    - {fileID: 21300006, guid: 512491c4dc5fc7b4487e36adb7e42041, type: 3}
+    Multiple: 1
+    Hash: d5ef7b15cfc45962d907934a6a247782
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SniperBow
+    Collection: Basic
+    Id: 1379579010
+    Path: Equipment/Bow/Basic/SniperBow
+    Sprite: {fileID: 21300004, guid: ab660f0b18387e24d9333cc58fabb549, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: ab660f0b18387e24d9333cc58fabb549, type: 3}
+    - {fileID: 21300000, guid: ab660f0b18387e24d9333cc58fabb549, type: 3}
+    - {fileID: 21300002, guid: ab660f0b18387e24d9333cc58fabb549, type: 3}
+    - {fileID: 21300006, guid: ab660f0b18387e24d9333cc58fabb549, type: 3}
+    Multiple: 1
+    Hash: 944df8e010c19480134e525d6951a44f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SpineBow
+    Collection: Skeleton
+    Id: 1521605829
+    Path: Equipment/Bow/Skeleton/SpineBow
+    Sprite: {fileID: 21300004, guid: 8ba13eb548adced48b76ff718eba646a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 8ba13eb548adced48b76ff718eba646a, type: 3}
+    - {fileID: 21300000, guid: 8ba13eb548adced48b76ff718eba646a, type: 3}
+    - {fileID: 21300002, guid: 8ba13eb548adced48b76ff718eba646a, type: 3}
+    - {fileID: 21300006, guid: 8ba13eb548adced48b76ff718eba646a, type: 3}
+    Multiple: 1
+    Hash: bcb573918367e77faf0c04e61cd6095a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelBow
+    Collection: Basic
+    Id: -930455264
+    Path: Equipment/Bow/Basic/SteelBow
+    Sprite: {fileID: 21300004, guid: fdb39b393f40ddb4a846a5372264f294, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: fdb39b393f40ddb4a846a5372264f294, type: 3}
+    - {fileID: 21300000, guid: fdb39b393f40ddb4a846a5372264f294, type: 3}
+    - {fileID: 21300002, guid: fdb39b393f40ddb4a846a5372264f294, type: 3}
+    - {fileID: 21300006, guid: fdb39b393f40ddb4a846a5372264f294, type: 3}
+    Multiple: 1
+    Hash: 84137c7c9816b2bfef4b25cc4237a556
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: VineBow
+    Collection: Basic
+    Id: 1785254687
+    Path: Equipment/Bow/Basic/VineBow
+    Sprite: {fileID: 21300004, guid: 19f3c3dc8e5f3904b96da60ea4deca01, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300004, guid: 19f3c3dc8e5f3904b96da60ea4deca01, type: 3}
+    - {fileID: 21300000, guid: 19f3c3dc8e5f3904b96da60ea4deca01, type: 3}
+    - {fileID: 21300002, guid: 19f3c3dc8e5f3904b96da60ea4deca01, type: 3}
+    - {fileID: 21300006, guid: 19f3c3dc8e5f3904b96da60ea4deca01, type: 3}
+    Multiple: 1
+    Hash: 6dfea4efaeba29a135ebc4c6dcb8555c
+    Meta: 
+    Tags: []
+    Config: 
+  Crossbow: []
+  Shield:
+  - Name: AdvancedWoodenShield
+    Collection: Basic
+    Id: 413475804
+    Path: Equipment/Shield/Basic/AdvancedWoodenShield
+    Sprite: {fileID: 21300000, guid: 0ab57804cf3f20c47866cfb4afa0476c, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0ab57804cf3f20c47866cfb4afa0476c, type: 3}
+    - {fileID: 21300002, guid: 0ab57804cf3f20c47866cfb4afa0476c, type: 3}
+    Multiple: 1
+    Hash: a1d55dea9bfd8689aed4d3e1a6049d62
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Bagpipes
+    Collection: Basic
+    Id: 1598600814
+    Path: Equipment/Shield/Basic/Bagpipes
+    Sprite: {fileID: 21300000, guid: b4e6f138693d1164e966a851cfd950f8, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b4e6f138693d1164e966a851cfd950f8, type: 3}
+    - {fileID: 21300002, guid: b4e6f138693d1164e966a851cfd950f8, type: 3}
+    Multiple: 1
+    Hash: 57c8b5085dd0dcc4c50db88c3043734e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Bloodmoon
+    Collection: Basic
+    Id: -1450261586
+    Path: Equipment/Shield/Basic/Bloodmoon
+    Sprite: {fileID: 21300000, guid: 31e70442345ee904f8f45d0f3665afc6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 31e70442345ee904f8f45d0f3665afc6, type: 3}
+    - {fileID: 21300002, guid: 31e70442345ee904f8f45d0f3665afc6, type: 3}
+    Multiple: 1
+    Hash: 624d3c7768f108c15b768957488e370b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: BlueShield
+    Collection: Basic
+    Id: -1237544352
+    Path: Equipment/Shield/Basic/BlueShield
+    Sprite: {fileID: 21300000, guid: 18a94c38cc7b9724fb51d5f8d9183b10, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 18a94c38cc7b9724fb51d5f8d9183b10, type: 3}
+    - {fileID: 21300002, guid: 18a94c38cc7b9724fb51d5f8d9183b10, type: 3}
+    Multiple: 1
+    Hash: d7bc9ca436c1388b546fea19677b4eaf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: CrusaderShield
+    Collection: Basic
+    Id: 1948546239
+    Path: Equipment/Shield/Basic/CrusaderShield
+    Sprite: {fileID: 21300000, guid: bc3702b8a5664104e919f834a355aed3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: bc3702b8a5664104e919f834a355aed3, type: 3}
+    - {fileID: 21300002, guid: bc3702b8a5664104e919f834a355aed3, type: 3}
+    Multiple: 1
+    Hash: c2b3ce9c388a95629ccf91ce215df80d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: Drum
+    Collection: Basic
+    Id: -1597039689
+    Path: Equipment/Shield/Basic/Drum
+    Sprite: {fileID: 21300000, guid: c73daf3ae5bd86443a7a6bcdbcbd8d73, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c73daf3ae5bd86443a7a6bcdbcbd8d73, type: 3}
+    - {fileID: 21300002, guid: c73daf3ae5bd86443a7a6bcdbcbd8d73, type: 3}
+    Multiple: 1
+    Hash: 602980cf92475c896e0a7211cad166be
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FathersShield
+    Collection: Basic
+    Id: 204278053
+    Path: Equipment/Shield/Basic/FathersShield
+    Sprite: {fileID: 21300000, guid: 23b88f8bfa533df4193ef3d1c55eb550, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 23b88f8bfa533df4193ef3d1c55eb550, type: 3}
+    - {fileID: 21300002, guid: 23b88f8bfa533df4193ef3d1c55eb550, type: 3}
+    Multiple: 1
+    Hash: a6e33d8a2aa6dc2beea6f5ffab67d04e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: FireWarriorShield
+    Collection: Basic
+    Id: -1346121848
+    Path: Equipment/Shield/Basic/FireWarriorShield
+    Sprite: {fileID: 21300000, guid: 40a2e5f31e49a92438ed47ad621ee78a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 40a2e5f31e49a92438ed47ad621ee78a, type: 3}
+    - {fileID: 21300002, guid: 40a2e5f31e49a92438ed47ad621ee78a, type: 3}
+    Multiple: 1
+    Hash: a3fe2cefef32aca6815a99c9cd1a9fa7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: ForgedBuckler
+    Collection: Basic
+    Id: 292239618
+    Path: Equipment/Shield/Basic/ForgedBuckler
+    Sprite: {fileID: 21300000, guid: 5ccaa2856953c39418a3e4160b80d138, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5ccaa2856953c39418a3e4160b80d138, type: 3}
+    - {fileID: 21300002, guid: 5ccaa2856953c39418a3e4160b80d138, type: 3}
+    Multiple: 1
+    Hash: 068fdfefa9d376102d088b676d635d59
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GladiatorShield
+    Collection: Basic
+    Id: 581620113
+    Path: Equipment/Shield/Basic/GladiatorShield
+    Sprite: {fileID: 21300000, guid: 0d015f9421bfd5a4e94ace11c94ce56e, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 0d015f9421bfd5a4e94ace11c94ce56e, type: 3}
+    - {fileID: 21300002, guid: 0d015f9421bfd5a4e94ace11c94ce56e, type: 3}
+    Multiple: 1
+    Hash: e53b8e6839a6aaafddb09d5dfccfd576
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: GuardShield
+    Collection: Basic
+    Id: -1971410629
+    Path: Equipment/Shield/Basic/GuardShield
+    Sprite: {fileID: 21300000, guid: 5179e204b19f7d040bb5d29bd295a34d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5179e204b19f7d040bb5d29bd295a34d, type: 3}
+    - {fileID: 21300002, guid: 5179e204b19f7d040bb5d29bd295a34d, type: 3}
+    Multiple: 1
+    Hash: 7e6d08f8d1ad91f1b55489a64a970391
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: HexWoodenShield
+    Collection: Basic
+    Id: -1966317177
+    Path: Equipment/Shield/Basic/HexWoodenShield
+    Sprite: {fileID: 21300000, guid: a767e4812092f0840beb3ad3640c3a6f, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a767e4812092f0840beb3ad3640c3a6f, type: 3}
+    - {fileID: 21300002, guid: a767e4812092f0840beb3ad3640c3a6f, type: 3}
+    Multiple: 1
+    Hash: e49fb66f71d8c680c115b788d7e81394
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: IronBuckler
+    Collection: Basic
+    Id: 731759047
+    Path: Equipment/Shield/Basic/IronBuckler
+    Sprite: {fileID: 21300000, guid: a8c97b5de1d6f43488f9360e97e148e3, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: a8c97b5de1d6f43488f9360e97e148e3, type: 3}
+    - {fileID: 21300002, guid: a8c97b5de1d6f43488f9360e97e148e3, type: 3}
+    Multiple: 1
+    Hash: 6f60b305df6e40df14ab1efd838f2fb7
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RoughShield
+    Collection: Basic
+    Id: 525579261
+    Path: Equipment/Shield/Basic/RoughShield
+    Sprite: {fileID: 21300000, guid: 5b8b1be4f473505408d4d2b7de54a025, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 5b8b1be4f473505408d4d2b7de54a025, type: 3}
+    - {fileID: 21300002, guid: 5b8b1be4f473505408d4d2b7de54a025, type: 3}
+    Multiple: 1
+    Hash: 528ec91637cc0461890dc32faba787eb
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RoundedPlateShield
+    Collection: Basic
+    Id: 1722571301
+    Path: Equipment/Shield/Basic/RoundedPlateShield
+    Sprite: {fileID: 21300000, guid: ba4d21386fabdf04ca7e93bc840085b6, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: ba4d21386fabdf04ca7e93bc840085b6, type: 3}
+    - {fileID: 21300002, guid: ba4d21386fabdf04ca7e93bc840085b6, type: 3}
+    Multiple: 1
+    Hash: 60d3e94e9968f38b21d33eddfc50f1e0
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyGladiatorShield
+    Collection: Basic
+    Id: -522508370
+    Path: Equipment/Shield/Basic/RustyGladiatorShield
+    Sprite: {fileID: 21300000, guid: dcae48a844f699a42a6c413cebe92b38, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: dcae48a844f699a42a6c413cebe92b38, type: 3}
+    - {fileID: 21300002, guid: dcae48a844f699a42a6c413cebe92b38, type: 3}
+    Multiple: 1
+    Hash: d84811371345b89f184ec16dd62bbbbf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: RustyGuardShield
+    Collection: Basic
+    Id: -739680346
+    Path: Equipment/Shield/Basic/RustyGuardShield
+    Sprite: {fileID: 21300000, guid: 02950ec8adf79a74ba4e69eaae67e011, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 02950ec8adf79a74ba4e69eaae67e011, type: 3}
+    - {fileID: 21300002, guid: 02950ec8adf79a74ba4e69eaae67e011, type: 3}
+    Multiple: 1
+    Hash: 1aca3518993d4c236a5e680e15ac3f9a
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SolidWoodenShield
+    Collection: Basic
+    Id: 1830877355
+    Path: Equipment/Shield/Basic/SolidWoodenShield
+    Sprite: {fileID: 21300000, guid: 73c606e839207014697f3d43d1de4289, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 73c606e839207014697f3d43d1de4289, type: 3}
+    - {fileID: 21300002, guid: 73c606e839207014697f3d43d1de4289, type: 3}
+    Multiple: 1
+    Hash: 6287d24a542b6ba918804ace3583ea2b
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SpikeShield
+    Collection: Basic
+    Id: 978394892
+    Path: Equipment/Shield/Basic/SpikeShield
+    Sprite: {fileID: 21300000, guid: b522a843fc41adc4aa0bba10dc9a52ef, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: b522a843fc41adc4aa0bba10dc9a52ef, type: 3}
+    - {fileID: 21300002, guid: b522a843fc41adc4aa0bba10dc9a52ef, type: 3}
+    Multiple: 1
+    Hash: 60f0d600db779bf18dbdab1effbf6ef3
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelShield
+    Collection: Basic
+    Id: 252892285
+    Path: Equipment/Shield/Basic/SteelShield
+    Sprite: {fileID: 21300000, guid: 07488c34b2f15f445b3e53124f6cc8e1, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 07488c34b2f15f445b3e53124f6cc8e1, type: 3}
+    - {fileID: 21300002, guid: 07488c34b2f15f445b3e53124f6cc8e1, type: 3}
+    Multiple: 1
+    Hash: 6f9b3a830ee600e713f86462d36eff2f
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: SteelTowerShield
+    Collection: Basic
+    Id: 666995496
+    Path: Equipment/Shield/Basic/SteelTowerShield
+    Sprite: {fileID: 21300000, guid: aaa2237ba949c3245a7bf691bf8da3ee, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: aaa2237ba949c3245a7bf691bf8da3ee, type: 3}
+    - {fileID: 21300002, guid: aaa2237ba949c3245a7bf691bf8da3ee, type: 3}
+    Multiple: 1
+    Hash: 95838ac4ef549cad22f16731a939292e
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: TowerShield
+    Collection: Basic
+    Id: 1410987525
+    Path: Equipment/Shield/Basic/TowerShield
+    Sprite: {fileID: 21300000, guid: 32c010b2265ca9e46bad64d8c77e7b78, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 32c010b2265ca9e46bad64d8c77e7b78, type: 3}
+    - {fileID: 21300002, guid: 32c010b2265ca9e46bad64d8c77e7b78, type: 3}
+    Multiple: 1
+    Hash: 83023fc89dcc5bdec457800ffbed44bf
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: VikingShield
+    Collection: Basic
+    Id: -1099962514
+    Path: Equipment/Shield/Basic/VikingShield
+    Sprite: {fileID: 21300000, guid: 59b703c39a60d08449775b4ed4286c3a, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 59b703c39a60d08449775b4ed4286c3a, type: 3}
+    - {fileID: 21300002, guid: 59b703c39a60d08449775b4ed4286c3a, type: 3}
+    Multiple: 1
+    Hash: 05de51bf0c21e8bd2af6cb99b7f27257
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarriorShield
+    Collection: Basic
+    Id: 2048169928
+    Path: Equipment/Shield/Basic/WarriorShield
+    Sprite: {fileID: 21300000, guid: 820b7f9e4b55b6d4bba646fc5eb9eea5, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 820b7f9e4b55b6d4bba646fc5eb9eea5, type: 3}
+    - {fileID: 21300002, guid: 820b7f9e4b55b6d4bba646fc5eb9eea5, type: 3}
+    Multiple: 1
+    Hash: 4224b2fb255461a57196a21ec0de3b43
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WarShield
+    Collection: Basic
+    Id: -1915513692
+    Path: Equipment/Shield/Basic/WarShield
+    Sprite: {fileID: 21300000, guid: 730faef36b4dfbd4a91b0ae5f2d9c24d, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 730faef36b4dfbd4a91b0ae5f2d9c24d, type: 3}
+    - {fileID: 21300002, guid: 730faef36b4dfbd4a91b0ae5f2d9c24d, type: 3}
+    Multiple: 1
+    Hash: aa502a038e7d005fe2bc3ba87df9f82d
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenBuckler
+    Collection: Basic
+    Id: 376340193
+    Path: Equipment/Shield/Basic/WoodenBuckler
+    Sprite: {fileID: 21300000, guid: 98f733767f5bff5488383801dbe428bd, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 98f733767f5bff5488383801dbe428bd, type: 3}
+    - {fileID: 21300002, guid: 98f733767f5bff5488383801dbe428bd, type: 3}
+    Multiple: 1
+    Hash: 100b39a6978e2339b31ff60a5649b4d1
+    Meta: 
+    Tags: []
+    Config: 
+  - Name: WoodenShield
+    Collection: Basic
+    Id: -1937336286
+    Path: Equipment/Shield/Basic/WoodenShield
+    Sprite: {fileID: 21300000, guid: 2c69fbef025fccd4fb47256cf0553606, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: 2c69fbef025fccd4fb47256cf0553606, type: 3}
+    - {fileID: 21300002, guid: 2c69fbef025fccd4fb47256cf0553606, type: 3}
+    Multiple: 1
+    Hash: 77768497c1e7081f99854c33dade06c0
+    Meta: 
+    Tags: []
+    Config: 
+  Supplies:
+  - Name: ShieldScroll
+    Collection: Receipt
+    Id: -1976969551
+    Path: Equipment/Supplies/Receipt/ShieldScroll
+    Sprite: {fileID: 21300000, guid: c2a12a5acc8214b4f8782c1b8abdeffc, type: 3}
+    LinkedSprite: {fileID: 0}
+    Sprites:
+    - {fileID: 21300000, guid: c2a12a5acc8214b4f8782c1b8abdeffc, type: 3}
+    Multiple: 1
+    Hash: b1e3140b1d4d955e43a03f693570e20c
+    Meta: 
+    Tags: []
+    Config: 
+  DebugLogging: 0

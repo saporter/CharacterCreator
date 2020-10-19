@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7f7bd392a525556438733fb9d4b4fdaf, type: 3}
+    totalSpriteSurfaceArea: 684256
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4f61b8f2dd604f9bae1dc4f151ceb6fa, type: 3}
+  - {fileID: 21300000, guid: b0ec598342db4b61874574751e98e743, type: 3}
+  - {fileID: 21300000, guid: e1b266934c534d88ac177f0963fa3001, type: 3}
+  - {fileID: 21300000, guid: b91d06e3dd9fe884f8f405b0cdef952a, type: 3}
+  - {fileID: 21300000, guid: de6181b4c26b6cc4fa5f87228798c175, type: 3}
+  - {fileID: 21300000, guid: b7563c15e7704d35933f5ebf2d820447, type: 3}
+  - {fileID: 21300000, guid: 16f08755c42b4b309bd6d9707aa2bde0, type: 3}
+  - {fileID: 21300000, guid: 465c0e9652a10684487340641fe2029a, type: 3}
+  - {fileID: 21300000, guid: df0b945907914b4182eb62c36407f81a, type: 3}
+  - {fileID: 21300000, guid: bdd1c5a979123f5499ab6348bf015910, type: 3}
+  - {fileID: 21300000, guid: 2c6032c99486429880b3fd186e6604ae, type: 3}
+  - {fileID: 21300000, guid: 943e5bf9e1554dc4b19d1fc86049e8e7, type: 3}
+  - {fileID: 21300000, guid: 0f42433b46c44583982c475d29752a2b, type: 3}
+  - {fileID: 21300000, guid: 7f30885b9527431ebb612a3910cf8140, type: 3}
+  - {fileID: 21300000, guid: 56accebb63282c145b160603b082ea62, type: 3}
+  - {fileID: 21300000, guid: 0ded733c73404cf2890a012b51681995, type: 3}
+  - {fileID: 21300000, guid: 2cc8d0dc5a944a908364d26affc97c12, type: 3}
+  - {fileID: 21300000, guid: 069986dc61004db39dc5c5a9df55ff2f, type: 3}
+  - {fileID: 21300000, guid: 7847c77d65624f55bfb570bf41290622, type: 3}
+  - {fileID: 21300000, guid: 1493520ebc0541c484dd0bf94df8f461, type: 3}
+  - {fileID: 21300000, guid: 4457bedec6d2a23488a59f955c5a8f8f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Contact
+  - Panel
+  - Settings
+  - Close
+  - Help
+  - Palette
+  - Light
+  - Facebook
+  - FAQ
+  - ButtonD
+  - Bug
+  - Background
+  - Twitter
+  - ButtonA
+  - Confirm
+  - Discord
+  - PaletteColor
+  - ButtonB
+  - Arrow
+  - ButtonC
+  - Survey
+  m_Tag: UI
+  m_IsVariant: 0
